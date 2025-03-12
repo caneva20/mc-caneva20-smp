@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ad4699230deca3e974dccdb8797257ef4deea92b8d112f39320aeb4fd19502a4"
+hash = "ca604e92190d200cc4f744f480fd11c7cc451a47fab0ea8a606b6222b4a56562"
 metafile = true
 
 [[files]]
@@ -422,32 +422,32 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.pw.toml"
-hash = "30ce71691274a3b1a1c02d47cdafa7dea5fb0295d0c354b97a93aa79462718bc"
+hash = "befbb4e87240d661241fbbd9b2c3dff07123c97850e62322fbdc036ce454d5e2"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "51b85f6d9555f015aa4e0bc073ab523199b6df35e325077bcf14fd60ba84a513"
+hash = "54027603401c42860c29864e4e5e8639516743d2f3d17e51153fd841ffd58f5c"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "b0a33c2f4b7e1e4636aab207c9c154085fd71026ea85468eed55ba454af988de"
+hash = "c7fc6c00c05bdb2fd37dabaf261066c586ef51079069178ee3784692a823c1d6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "4f97c3a786e52470b7ff193b2d96a4b8b93a3bd20d344f57ed7ac23e18957494"
+hash = "f910b37e2888cdeaa7b0a97348a4debeadd4c800b1725f74291ae135b46ac54f"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "6da09b401b7cfc3e15733b3df93f3961f3726e748d2678bc05891dd17af2db94"
+hash = "ed0ec299feda6ce8caf727c288a9841d098ce85099b610b7527fd72ce2189122"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "52a00b27a44b660897dcf074071abfa972fbaf877a286762c5e95cd87655dd33"
+hash = "736927a80f093b82feba9f8915d7c8ef94b9eddce910f56bd5d8fd0bdb299f1d"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "03e90d1fb66cb4a91da0c0c71fd3120fa3e61782bb03e67ede8330e861d55ddd"
+hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
