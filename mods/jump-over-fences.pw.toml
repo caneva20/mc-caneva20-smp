@@ -1,0 +1,13 @@
+name = "Jump Over Fences"
+filename = "jumpoverfences-neoforge-1.21-1.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/UJqVFiLY/jumpoverfences-neoforge-1.21-1.6.0.jar"
+hash-format = "sha512"
+hash = "cd247d8b8c8abd9df43abf915faefbc22e15975ff7c9e48d4913bb3c2bf2d45fa2fb07469aa7b4b76b169436b5034a5ea248027edaa0391d83df9ecbd9c6e262"
+
+[update]
+[update.modrinth]
+mod-id = "4HeIHvIP"
+version = "UJqVFiLY"

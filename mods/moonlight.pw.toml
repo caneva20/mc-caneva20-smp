@@ -1,0 +1,13 @@
+name = "Moonlight Lib"
+filename = "moonlight-1.21-2.17.34-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/EMqQXgVa/moonlight-1.21-2.17.34-neoforge.jar"
+hash-format = "sha512"
+hash = "59b48fe901734dd99587f274c159084819950a745c68e91e01c54f80c60f8943465773780e8c12752658e7fd83df83ed00ec35a404145c1b235a23133e2a72e0"
+
+[update]
+[update.modrinth]
+mod-id = "twkfQtEc"
+version = "EMqQXgVa"

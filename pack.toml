@@ -1,0 +1,13 @@
+name = "caneva20's 1.21"
+author = "caneva20"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff7b6c93d258d022465e582b3cf0fc856d02bb166e6a123478301eb194235a52"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.133"
