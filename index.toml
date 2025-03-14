@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "7580da5fc3a9f9d0c8236d1bbf3cf38b6f339117f2fc90437050a52f7202171a"
+hash = "04d35681099b24932b687ffc355311c112e237462d204ad147840e6d5369ae9c"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
 metafile = true
 
 [[files]]
@@ -178,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios-continuation.pw.toml"
-hash = "237a52e17edfb00eb82851640f45fadfa4faefd99c3dec98628f013fe41a1dc5"
 metafile = true
 
 [[files]]
@@ -287,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "f680363693a3695eeb927bcd02d4406f8cb54a4378efdf6804bb5ae97031f200"
+hash = "967e2145e86fb9de3ef8f9d0bb20cb1d15ccb294cab7b2611fdebcf405dbf98d"
 metafile = true
 
 [[files]]
@@ -432,22 +427,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "c7fc6c00c05bdb2fd37dabaf261066c586ef51079069178ee3784692a823c1d6"
+hash = "d4d35f7c877acf1eb8504433078f7d306eec5e73bdecf0a3710b1f9092ebebd2"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "f910b37e2888cdeaa7b0a97348a4debeadd4c800b1725f74291ae135b46ac54f"
+hash = "ead4f5e47a12e3728d89f256a952c1994dcf8adb8fbde6b151577abdd7003a56"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "ed0ec299feda6ce8caf727c288a9841d098ce85099b610b7527fd72ce2189122"
+hash = "140b211e80bd974ce4567ab742df8fc9c155a74f9602bd4be40176f64548862f"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "736927a80f093b82feba9f8915d7c8ef94b9eddce910f56bd5d8fd0bdb299f1d"
+hash = "d540f922469466e833fd4bb8f966b55e947d52fe405b80b2351c9e96a8f3dce3"
 metafile = true
 
 [[files]]
@@ -462,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8ab06d863d9ab7017327b074f4304b516ba47119831ed2690cd9a60b721fd2fa"
+hash = "390fe2708337120b8da8e57d0effa71c4c7c09fdc4fe8e84271bc3248484a131"
 metafile = true
 
 [[files]]
@@ -531,11 +526,6 @@ hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "a2d4031a1a3c3ea5fb5a35b0164a93a0c73955d87ad1223ac73e0a00a70c8bd1"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "225fad05428589bf0efe18c3540a9103eaf3280fa15ad1293ef04efa3318b14f"
 metafile = true
@@ -547,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "38522ce848fa0ae112e3e5657384f3252c079caeed039d3b2b0daaf9cbdfc71e"
+hash = "5bb2bf8bfcd8a447dabbd4c00b6c4bc65db1f96b7018f1a0a1874f35f4fad765"
 metafile = true
 
 [[files]]
@@ -627,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c7390408edd433cf4e3381926668e784c2e575e1be58399ad71741a277805b48"
+hash = "7a7c905b1028651350c1f31e0a9611b997e5bdaf15722be66c861c39ada48414"
 metafile = true
 
 [[files]]
@@ -637,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "5dea91ea2463c50bb983f5d6b0ae484e801121c3f36dc86200350c08b0e631ec"
+hash = "69b28584134f9844bdebd9cba23dc9f361efce089e359ffb4950c7cc4cb57160"
 metafile = true
 
 [[files]]
@@ -707,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "7d50035fd4872855751c468f38eb1f76dc38abcf43d446fc7f370de9c25b4608"
+hash = "0e0662cdf5799f3fd0773c225c96216b8ee466a2e1645f41975a463bbddeb0be"
 metafile = true
 
 [[files]]
