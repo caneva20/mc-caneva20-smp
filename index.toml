@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "27ffeceea1bb50c9d613538924e7b37e1bc36e3bbaf9839f2b5abd47bf941838"
+hash = "017099a64d7b8b13bb16da42abd811f0638c6289d29f158d37590f8fb0401674"
 metafile = true
 
 [[files]]
@@ -113,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "d4c7a4a5d80756a496e4768b1cdce3640f3a272c3948d8069d06a5fb1177c5bd"
 metafile = true
 
 [[files]]
@@ -481,6 +486,11 @@ hash = "935b9d4a98270c9e5a0b54acd88201128a4f9b8bdd11bf84b95722f6dd059a34"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "6092d22901ad01c854380e2946a27e193fcdd4340889d5fe8f790b8a36d24a26"
 metafile = true
@@ -557,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "ba01a4c575bed5f956150a6453488cb045f9fadec921a0166838d47b2739ac05"
+hash = "b4afcbee42ab11558c60e1628894b528a24389e8c86dd4611821845b1d80f061"
 metafile = true
 
 [[files]]
