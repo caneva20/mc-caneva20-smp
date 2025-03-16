@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "6f4eb5682b01ac529b733a45a7c253c2c00a11b4efd678dbee54007147025a89"
+hash = "0514cde9c10e250f0a0f4ddbe8a9486dfb388e01920ef8d43ce1ef5c7f4b6430"
 metafile = true
 
 [[files]]
@@ -163,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "344de98f73ab4e9e43c94e03a136c1f58b34b1a9bd2151dbf4b617ad7e46f5ea"
 metafile = true
 
 [[files]]
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
+hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "43979092cf968dcbf976c6e260c2c089b83cd5f57f6cfb1254e8f5c15d3ef208"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
@@ -447,12 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d540f922469466e833fd4bb8f966b55e947d52fe405b80b2351c9e96a8f3dce3"
-metafile = true
-
-[[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "f3f1c04ad9b39d671d65473ed8048f168ed9d535e9b9ab5c76c2a0f6211c6228"
+hash = "86316f2af0e01e081585a886f2a73a9e7948ff8a39d516698c2eb19785423c1f"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5bb2bf8bfcd8a447dabbd4c00b6c4bc65db1f96b7018f1a0a1874f35f4fad765"
+hash = "35ecf5a8ecf2d7b1a2b79f5d24a093e21d23f12486dcd71689894758d2fbe832"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "b4afcbee42ab11558c60e1628894b528a24389e8c86dd4611821845b1d80f061"
+hash = "b4260342995a60b2b5d7cd691d2ed09f6425cc0d826093885579371e2ca844c2"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "cb1521ea17987d9d7e142277d985c9350636345e2f9d1056d9758280a50e7d44"
+hash = "68050929adeecda4ac08c8bc9428aba3e8f8058ff279edc6bab4ba46025fff64"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "943c497e1f537129a6eaaed1886f89043f0c06753e199abe890c5385ba026069"
+hash = "b633b888679fc7f2d54700867320a5371d8de522835976915fc9023b551db63c"
 metafile = true
 
 [[files]]
