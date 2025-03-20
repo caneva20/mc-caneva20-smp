@@ -1,6 +1,6 @@
 name = "More Dragon Eggs"
 filename = "moredragoneggs-5.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

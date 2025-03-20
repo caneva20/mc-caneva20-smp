@@ -3,11 +3,11 @@ filename = "FarmersDelight-1.21.1-1.2.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "26c017b7900e3c97a58e58e4ec6a98b0ae74778d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/R2OftAxM/versions/XhhT3PXv/FarmersDelight-1.21.1-1.2.7.jar"
+hash-format = "sha512"
+hash = "d594d2855a3034592b834aad49c39778327ffef8d034af9eec5c31e27912c67d138cd850629375ac2df28bbc7540cfca22c7eb5fddbce2f97f498a579fd5b010"
 
 [update]
-[update.curseforge]
-file-id = 6154807
-project-id = 398521
+[update.modrinth]
+mod-id = "R2OftAxM"
+version = "XhhT3PXv"

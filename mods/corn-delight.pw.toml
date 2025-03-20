@@ -1,13 +1,13 @@
-name = "Corn Delight[Forge]"
+name = "Corn Delight"
 filename = "corn_delight-1.1.4-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3609be525fb6a6f132930da1625a310deb68beb1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uxLAKWU8/versions/OvcZv6NG/corn_delight-1.1.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "fb314e0386643104fd53c3432be5de6fcb6fbc9596db74984f3d60828bab922161b62035a235648464ceb3810096dda281dec95eaf0483b74150db59bc6599ec"
 
 [update]
-[update.curseforge]
-file-id = 5840901
-project-id = 577805
+[update.modrinth]
+mod-id = "uxLAKWU8"
+version = "OvcZv6NG"

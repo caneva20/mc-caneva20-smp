@@ -3,11 +3,11 @@ filename = "sophisticatedstorage-1.21.1-1.4.0.1079.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7eeb9c9404b1e2675e67398fa1e83fc31f09d4c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hMlaZH8f/versions/niY9JWxD/sophisticatedstorage-1.21.1-1.4.0.1079.jar"
+hash-format = "sha512"
+hash = "3d9767aca0ec2061c7de0842bfffda3a65e6782a158dd351396de91ce79f22fe6118de401340002e0a0c3775fb5f5a34100fcec241e6c48f2a49b535e02bce52"
 
 [update]
-[update.curseforge]
-file-id = 6303389
-project-id = 619320
+[update.modrinth]
+mod-id = "hMlaZH8f"
+version = "niY9JWxD"

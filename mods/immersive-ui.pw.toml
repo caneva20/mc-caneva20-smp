@@ -1,13 +1,13 @@
 name = "Immersive UI"
 filename = "ImmersiveUI-NEOFORGE-0.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9f445accda961f140b965ede6b9cb63b996538f3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/SDyGyZUX/ImmersiveUI-NEOFORGE-0.3.0.jar"
+hash-format = "sha512"
+hash = "aa38510467f6d2856f79d9d5f0bd7e1db3d943b6db86bdbdfb5cb0fddf1da530d0368b02ef0360a059229b45b3c9905cdadaee723db02e5623e182bed37e0a89"
 
 [update]
-[update.curseforge]
-file-id = 6023321
-project-id = 1021685
+[update.modrinth]
+mod-id = "9wv7LuMc"
+version = "SDyGyZUX"

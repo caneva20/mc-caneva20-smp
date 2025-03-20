@@ -1,13 +1,13 @@
 name = "Dark Mode Everywhere"
-filename = "darkmodeeverywhere-1.21-1.3.4.jar"
-side = "both"
+filename = "darkmodeeverywhere-1.21-1.3.3.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "8319b02e2743c3a9a30878e59aa123bd1de2fe28"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k3lrwGqk/versions/kwC420wH/darkmodeeverywhere-1.21-1.3.3.jar"
+hash-format = "sha512"
+hash = "457d2da2070dbc19b55c94c6d989e227089fc21f43cff3bff99db51fd1bc5259c44b6e5edcf13cff2a6a2faf7037f840326088652cc61b748e72db6c57be8b7b"
 
 [update]
-[update.curseforge]
-file-id = 5922655
-project-id = 574123
+[update.modrinth]
+mod-id = "k3lrwGqk"
+version = "kwC420wH"
