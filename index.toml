@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1c57dff8f8e04e0e6995a888e62331814853a18942365c2b47b4776e2551fee9"
+hash = "0af95a2f7aa5b1ebbe1f5a37eb063f9c01857b34a805acc5eab1e74c53d3e7a5"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "467d7d44e4da1ac78b4c80b71ddf8b91cbca4bca068318f6ee548299eef28e82"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "f684e2251ae867923da13bf75df42e1086a0f50018ab4c70eaf4b888d52b7251"
+hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "e0d6bf3e7e10de935302d78fc0a8b3ed21edc129d3964ccfe3eab4254a012ba9"
+hash = "f27b7efb2f2fab42d84378c2196db1255fa5874b8a05462b9028072d16bc7b69"
 metafile = true
 
 [[files]]
