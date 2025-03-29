@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "37a080a02bb5cb08973f086718dc4835595fa7063d71eb00f191d04effc7d806"
+
+[[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "70b60dc87321c41bbb217d23d97beb7950d0cf61b6a2bc48e8f1a7ee6d9af784"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
-hash = "40e4d52efdacacda363b30af39790f792feecb7d6c8a8c94ffe4f7d0f1bf5c5b"
+hash = "e2bcf8bbb03c7e120792f95d97f6c22038ab462a35c855d9475fdb4853760afc"
 metafile = true
 
 [[files]]
@@ -173,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "623d74dea2f4a5c1f8173520691ff06533ac4e4f1651ef1790a8741d8181793d"
 metafile = true
 
 [[files]]
