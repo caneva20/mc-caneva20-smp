@@ -5,6 +5,62 @@ file = "config/accessories.json5"
 hash = "37a080a02bb5cb08973f086718dc4835595fa7063d71eb00f191d04effc7d806"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/permit_diamond.json"
+hash = "7436f9fa918935e13f1265647afee59008931df8d861f48ff6783540d8837d95"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/permit_gold.json"
+hash = "ee2029550ee16c84fc66a8e79a07a2e9fe5cf695f01c0110f18e6691d51f29b8"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/permit_iron.json"
+hash = "1c849561f91160ea7989a41b5659487b7f4e11157e5f98999060d23be03bae21"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/permit_diamond.png"
+hash = "5e496b8b7a7db5548f60585f49c29063caa58ed636e20e7cdff16ed9250e356b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/permit_gold.png"
+hash = "1c06a8fb6577659cd1fea6e4778bc772cd2e08966fd43e9081f63be14b0d8c1a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/permit_iron.png"
+hash = "940cee287e0872569d4def966521e7b14207e1449271cce682c5520ece0017b8"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "bf3c8597df0521316f23f9412e02e076f925275dab3af1146a54fe008dfedcb1"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "9b8500dfcb3d7e26a57772cc906959a31791a73800a021b4a2cc912fe5db8012"
+
+[[files]]
+file = "kubejs/startup_scripts/item-permit.js"
+hash = "6bfabe5e00a16bd20895f751a6bf5eebd22b736bea4fbb1baa29e4886d70a73c"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "ef6384cba53796c7fdbd442d85d9ebdb8a21cb9fbb8d56be39340483640e18d7"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "70b60dc87321c41bbb217d23d97beb7950d0cf61b6a2bc48e8f1a7ee6d9af784"
 metafile = true
@@ -380,6 +436,11 @@ hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
@@ -547,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "d525f4f3a1bc9358a21159f335989da1d467dd75eccb9fdb14263aec6366ed53"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
 
 [[files]]
