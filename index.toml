@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "a764bb74be593503ea50cc9b312af88e81a15f28c3149f4c603a059c200e5ebc"
+hash = "63eff8859210c985b03a887e45f145ce45bf6b0547bc74e5af5db61aaeacb6fc"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
+hash = "72800d77f9b3e0c52652c32b51cc7226935fbd230d8922118a854f17e7c3cf93"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "dcd2065f0543fa55c0d5a0ccc44f84ecdf0e42323a5078ec52cc1537d0f0660d"
+hash = "8808aadacaaab7d6a0d874ecf5f8c16283f0a3cb65252f425080533b4d1942ec"
 metafile = true
 
 [[files]]
@@ -672,12 +672,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0caec09a046c3bf830fcd0b314d88b3ca502be857c83904f2090552b6efc9565"
+hash = "81f93107433fa4662d6bd32a3bef00c6b67ce77f3cffc7016905dc7d681d9502"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e96fc82baa6ed6db7b06419148b36c661f40862569c1a766d5416fe00364e52b"
+hash = "f40946737c29490b33bae2a55b5195a5424a8ae3fabb148a15a496b9f1a63107"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "de94857025903ad40db0e035419825fbd5d62400a639838d7b12f0c2ad2d724f"
+hash = "5aa43903423c9fec48bcd375ab17890fe86c66a2a82574b8ebd7a4f5a5e29720"
 metafile = true
 
 [[files]]
