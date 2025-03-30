@@ -626,6 +626,11 @@ hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "8f3ed2770da875a54660318c0f8ce0174f29d455b8111e3e29f47ced5a770c67"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
 metafile = true
