@@ -46,7 +46,7 @@ hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
 
 [[files]]
 file = "kubejs/server_scripts/main.js"
-hash = "9b8500dfcb3d7e26a57772cc906959a31791a73800a021b4a2cc912fe5db8012"
+hash = "3b37c482dd64f5de025318b4f8d354b89e8bc5a3a699ef3b594cf8858ec2b62c"
 
 [[files]]
 file = "kubejs/startup_scripts/item-permit.js"
@@ -156,6 +156,11 @@ hash = "1f41272b5cdabe73dc343bdb89eb9993c82df611a18182dcbc7107a46b7458bb"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "c7f15ebcab95f04c71940715f09ced4caad2775a91ef34389431f91bc1c7be71"
 metafile = true
@@ -198,16 +203,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
-metafile = true
-
-[[files]]
-file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "d6b9c98e2ad4210b3c8e4c89d887648518d21f37e7969eba273a718df2f055ed"
-metafile = true
-
-[[files]]
-file = "mods/corpse.pw.toml"
-hash = "48c96f96c87d8b4a4d74c5e1b60beb3adcdf9accd3c284e5cfc8ffc8aab9808b"
 metafile = true
 
 [[files]]
@@ -768,4 +763,9 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "9d23f21b0136dbaede91aa078ab071f477d9e03875ddaa4c3c560d2524f23011"
 metafile = true
