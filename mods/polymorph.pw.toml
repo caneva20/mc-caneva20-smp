@@ -1,13 +1,13 @@
 name = "Polymorph"
-filename = "polymorph-neoforge-1.0.7+1.21.1.jar"
+filename = "polymorph-neoforge-1.0.8+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/X9gNJacb/polymorph-neoforge-1.0.7%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/KVZCAz9J/polymorph-neoforge-1.0.8%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0f7933a3c3bf2268048e8258f9cd6e912ca902dd8c19af6584583feeb0b2c3ff3e7fb7239747a19cb4754051b0deb0ff0da9700a627637decca53f6e3cfc1e17"
+hash = "3adc381b367a5a79a0a2842b5356e130dd10175ae4a66ec41311f5878cb5ca1242347701da0343d7450e45a3ee4fa66291af50bae3e90d2fa086f84a4084b1e2"
 
 [update]
 [update.modrinth]
 mod-id = "tagwiZkJ"
-version = "X9gNJacb"
+version = "KVZCAz9J"

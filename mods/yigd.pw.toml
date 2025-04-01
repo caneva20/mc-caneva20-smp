@@ -1,13 +1,13 @@
 name = "You're in Grave Danger"
-filename = "youre-in-grave-danger-neoforge-2.0.10.jar"
+filename = "youre-in-grave-danger-neoforge-2.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/q7QSIoJk/youre-in-grave-danger-neoforge-2.0.10.jar"
+url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/7xufEDM9/youre-in-grave-danger-neoforge-2.0.11.jar"
 hash-format = "sha512"
-hash = "7da6c2a6ff2cde2242f3c2713feacaacbfb577b28ab7d975b8d0001344b988305d99c07a270ea8bc671096ec5c1c10e68fdbf2d24e5704c94c7e938b3c4707f7"
+hash = "4fa2b69005cccba46cf681fc75e1ae609b46368e5b70d81bb2b5e6b971553fedd2c673b9ae59dca32f3805964b20e8f4ae746556977fe773af10b4d1cb4ae5fb"
 
 [update]
 [update.modrinth]
 mod-id = "HnD1GX6e"
-version = "q7QSIoJk"
+version = "7xufEDM9"

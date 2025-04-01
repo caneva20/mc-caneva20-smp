@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "63eff8859210c985b03a887e45f145ce45bf6b0547bc74e5af5db61aaeacb6fc"
+hash = "f4015f21ab6f4c3dacbf58427c1216a01dd497dce7334ae427b41340690b6b5b"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "0514cde9c10e250f0a0f4ddbe8a9486dfb388e01920ef8d43ce1ef5c7f4b6430"
+hash = "b262075879d0eddb2aabe83896e6f446a174b2a3fe5696ab130ec1984de415c0"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
+hash = "c604862c7db098f8edcfa6aa1ebc4e235b3008fdbc61450c0da9c3c234513a54"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
+hash = "10cd974397f1718d0c9daf9b9bd3086878515265d97006261adb5118294b54b4"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "8808aadacaaab7d6a0d874ecf5f8c16283f0a3cb65252f425080533b4d1942ec"
+hash = "0526e407ff223a919b5e597f0e96d89230db732ffbd293f4769f3a1629caf2c7"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d79c6acf7b4646175124345daae6f3fd000e362bb89724e5b8ed1b5b1e18b6f1"
+hash = "5f959c321827c877eeaa6061163c03545db446b9942996265e470d8df98ed2b1"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "225fad05428589bf0efe18c3540a9103eaf3280fa15ad1293ef04efa3318b14f"
+hash = "4b0b8296abb5d39ca3e923f4d4d2849088d785072cdb7bfa7f36cbb3acd6b3b3"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "8aa808bca901d958fae89efcea3286502a9bda14da3ae688183d05f15fadeb0a"
+hash = "91d2eac79f39a14bdf53f7a40592617cdcb0449d41734159f8502dd78cdc9b84"
 metafile = true
 
 [[files]]
@@ -626,13 +626,8 @@ hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
 metafile = true
 
 [[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "8f3ed2770da875a54660318c0f8ce0174f29d455b8111e3e29f47ced5a770c67"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ef6992d15308d88e45074e082dc0552c61d494dc583a9b8520edba4bf1af94b6"
+hash = "3915b768d89ec43e7b4b250a361dd2c8326b0d56c7fe73656ee955653ee573f9"
 metafile = true
 
 [[files]]
@@ -677,12 +672,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "81f93107433fa4662d6bd32a3bef00c6b67ce77f3cffc7016905dc7d681d9502"
+hash = "0ffcdc2a8aad2620353c9714b7f25333ac08036b72023ec14f58b7ad9e8c2d3c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f40946737c29490b33bae2a55b5195a5424a8ae3fabb148a15a496b9f1a63107"
+hash = "4bb720d12394d4963a96215bb7b4b45fb06db410323f94578a4b899d501c723d"
 metafile = true
 
 [[files]]
@@ -777,5 +772,5 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "9d23f21b0136dbaede91aa078ab071f477d9e03875ddaa4c3c560d2524f23011"
+hash = "b35e1b58a78dba71421b5e43b2328515f4d7feb2dbe64996e1b14d7c923bf476"
 metafile = true
