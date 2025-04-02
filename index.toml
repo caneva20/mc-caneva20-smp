@@ -76,6 +76,11 @@ hash = "ef9bf76e6e39576898d05b7858b6f3dd3e1847e7cc23fffdfd72f18de1d7fc51"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "c7f15ebcab95f04c71940715f09ced4caad2775a91ef34389431f91bc1c7be71"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
@@ -348,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/jadecolonies.pw.toml"
 hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "ce3a430c123ff460df270c3387820330819cf31fef5ed3cfb0411f82c0357e82"
 metafile = true
 
 [[files]]
