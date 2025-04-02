@@ -3,11 +3,11 @@ filename = "cookingforblockheads-neoforge-1.21.1-21.1.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "95d33f38ba94abc72779593025e187cbedbbaefd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/cm966Gh4/cookingforblockheads-neoforge-1.21.1-21.1.12.jar"
+hash-format = "sha512"
+hash = "8bf01f5923e7df3d675befb74e5f872c309fbec3309e8f7ce7c74f1a5aff3cc6dc0b58304ca18f6e2a33fb5e5b380d0c0fabd9ec771e1b70bd0d7cdca6fbfc71"
 
 [update]
-[update.curseforge]
-file-id = 6270548
-project-id = 231484
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "cm966Gh4"
