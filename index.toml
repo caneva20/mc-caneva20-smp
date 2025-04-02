@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "483b991a04edc55f0844906857b30fcbd2fe7d3210ac0b31628dec49ddc0c0db"
+hash = "140d6cac4df0f296c858eaef9e3f92d31565140b91d867120554e12486b12680"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "cf8b70a9aee53147acfa4f6dd545baf2a65a597dd456f04c65e8ce378afea11c"
+hash = "dc2d768733b08521e89ae338054c1ec7a436e459214415cf5703437f5f355a36"
 metafile = true
 
 [[files]]
@@ -667,17 +667,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a122640a4332366ca18ba14457dab9bba90e850c669e8e41270917ad0585756a"
+hash = "f54472e9b4ec51ea6c1e0bd76ec12f04c14811b8862f8f51544923c48e6a6c07"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0ffcdc2a8aad2620353c9714b7f25333ac08036b72023ec14f58b7ad9e8c2d3c"
+hash = "5c2b504094fcaf8162e5640f5bba9ae6245b0c2aeee44ba272ed15cb8a5729fb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4bb720d12394d4963a96215bb7b4b45fb06db410323f94578a4b899d501c723d"
+hash = "4d9a19be1fca90f225ec7df745b11465129d1cde3b7d06e1fbee3140f39c14e8"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "62f2bc6dc8bc5dcbccf2ff23d9614f1f457e6afddd80d91ac26bd55dc9a75d56"
+hash = "c864fd850a79ee3f1c69edb977d258706b89189af86e12e242cffaab589a98c4"
 metafile = true
 
 [[files]]
