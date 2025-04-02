@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
+hash = "3e6dcd41a27e1b98500e32998d61a03725e22b174deb1cb998491a8393f80264"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "ce3a430c123ff460df270c3387820330819cf31fef5ed3cfb0411f82c0357e82"
+hash = "f9cd3a51c6e4d7e3dd2afb5cd2306de47394ebe1aed86753cf37c26340444bcd"
 metafile = true
 
 [[files]]
