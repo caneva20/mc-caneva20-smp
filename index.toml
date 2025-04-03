@@ -45,12 +45,12 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
 
 [[files]]
-file = "kubejs/server_scripts/main.js"
-hash = "3b37c482dd64f5de025318b4f8d354b89e8bc5a3a699ef3b594cf8858ec2b62c"
+file = "kubejs/server_scripts/register_permits.js"
+hash = "1053c93b04f25ba2bbd54325c92180829f7dcd8bdd20e940471fd7802d789d61"
 
 [[files]]
 file = "kubejs/startup_scripts/item-permit.js"
-hash = "6bfabe5e00a16bd20895f751a6bf5eebd22b736bea4fbb1baa29e4886d70a73c"
+hash = "d6d0a87bf3c42990ccf14664c36efe52214a0bcd85ae955b0b9d7c0d0cb85b0d"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
