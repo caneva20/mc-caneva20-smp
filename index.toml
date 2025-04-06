@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "140d6cac4df0f296c858eaef9e3f92d31565140b91d867120554e12486b12680"
+hash = "aa36f13a66eefe87cbe72bb189199bca4963d50d49d7415d9033a5930f10d365"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "017099a64d7b8b13bb16da42abd811f0638c6289d29f158d37590f8fb0401674"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "dc2d768733b08521e89ae338054c1ec7a436e459214415cf5703437f5f355a36"
+hash = "251687f755101cfddb7ffc207bb4b5e4557a8763a0c881c7f0d2f8e7d5647c8d"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "10cd974397f1718d0c9daf9b9bd3086878515265d97006261adb5118294b54b4"
+hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "0526e407ff223a919b5e597f0e96d89230db732ffbd293f4769f3a1629caf2c7"
+hash = "ae8b247b46f625de5912aa7d559e08788b3bc66fa90f265dcdec6355d48c257d"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5f959c321827c877eeaa6061163c03545db446b9942996265e470d8df98ed2b1"
+hash = "10af7e9cca305056ae02d9b0155a3e2322edefda78b2ddfcd91cf66f32a46d70"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "8d28bb5758c1c373f380d150ba3a75dd157dde3280a9a2554f41ecbfee02428e"
+hash = "a28d1582accd0b01aa7f8740d92aaa2b756a9842b5d51896300e8fa1eae9c325"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "91d2eac79f39a14bdf53f7a40592617cdcb0449d41734159f8502dd78cdc9b84"
+hash = "6a63278c2c76634c20544514d6d5237d31d78076aed1e0e47b06276aa3293329"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -637,12 +637,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5c2b504094fcaf8162e5640f5bba9ae6245b0c2aeee44ba272ed15cb8a5729fb"
+hash = "d34eb22327953a0488d6f98e71a8266848a720034e298e7d2a5d4fd656129eed"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4d9a19be1fca90f225ec7df745b11465129d1cde3b7d06e1fbee3140f39c14e8"
+hash = "d8be58efdba5e6baad1dfe80525cbdebba4aff11dd4a4b1629959bbee30d1f88"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "18da8ad70d845d79bb204f0d1886f123a98780cb30726017449e04d903712462"
+hash = "6a797d14f96dd22b92ad2eb9280b143563e18407489405175f183cf3587d7372"
 metafile = true
 
 [[files]]
