@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "b262075879d0eddb2aabe83896e6f446a174b2a3fe5696ab130ec1984de415c0"
+hash = "22ad6c47b0a22e283899017d895aa1a90c5c797df559d7ba180e9bd109e7deb9"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "ae8b247b46f625de5912aa7d559e08788b3bc66fa90f265dcdec6355d48c257d"
+hash = "08ed97304911979498d57f2bfc15656b2ea83425d50541477dd9bf614c5937eb"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
 metafile = true
 
 [[files]]
