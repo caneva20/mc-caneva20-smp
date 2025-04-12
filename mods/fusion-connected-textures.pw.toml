@@ -1,13 +1,13 @@
 name = "Fusion (Connected Textures)"
-filename = "fusion-1.2.5-neoforge-mc1.21.jar"
+filename = "fusion-1.2.6a-neoforge-mc1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/p19vrgc2/versions/vJ39Ps9L/fusion-1.2.5-neoforge-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/TyoufpMB/fusion-1.2.6a-neoforge-mc1.21.jar"
 hash-format = "sha512"
-hash = "5dd0b5871fbcc5722ec7df47bb9b1a3fdb36efa7ae4c46fead9c6b41d34ea96c3c46511b377bda876d533d0c99bd7f6f924fa27a37429107d170cd8718e2e144"
+hash = "513e2de135021f150e757ccdcba56a94b775cef0caf930ff37d7d183c90552b638260925dc08322781c4622ac56bbb93d64bf45cc7a0fd6cfcb31d105bf07647"
 
 [update]
 [update.modrinth]
 mod-id = "p19vrgc2"
-version = "vJ39Ps9L"
+version = "TyoufpMB"
