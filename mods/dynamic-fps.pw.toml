@@ -1,13 +1,13 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.9.2+minecraft-1.21.0-neoforge.jar"
+filename = "dynamic-fps-3.9.3+minecraft-1.21.0-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/VW4bVfIo/dynamic-fps-3.9.2%2Bminecraft-1.21.0-neoforge.jar"
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6iWXnUl5/dynamic-fps-3.9.3%2Bminecraft-1.21.0-neoforge.jar"
 hash-format = "sha512"
-hash = "c577e7d6bd6a969a508a7eff381655307186d041576b621652274e25e33c13a92165ca2482f9a639ddcecf7981c1874a81558819877987392ff6ac9d11ab545f"
+hash = "9c06507317d5eb22395f152e9f5f5e4c6ecccf7d5f9667c9f7e240996771730f105bdfcdec746d5f318ffc88d30f8721498b9e52b615d235763f1bfd4c1702de"
 
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"
-version = "VW4bVfIo"
+version = "6iWXnUl5"

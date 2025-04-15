@@ -62,7 +62,7 @@ hash = "ef6384cba53796c7fdbd442d85d9ebdb8a21cb9fbb8d56be39340483640e18d7"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
-hash = "70b60dc87321c41bbb217d23d97beb7950d0cf61b6a2bc48e8f1a7ee6d9af784"
+hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
 metafile = true
 
 [[files]]
@@ -122,12 +122,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "100d6bb216c75cbf7c2df8935f2fe98d1c419011275b8742f04b47b6d5c1f611"
+hash = "5ccd5f968838d4d556058d4d9765cbc3f04092311531e343f8bef0ff7e595642"
 metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "3c9f2423bdf7dcfdcc34dcb4a005b91daad32d65e95305875fe80286b45e1f02"
+hash = "e6d098a2e20d8d37b66a7800993c4769b2b5da0034ac71fedb3b7e4a29b1d954"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "00a6a59105f7bc307cf04c1dfb129b300c29a4cb550a5825cacdb54dbc598c68"
+hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0af95a2f7aa5b1ebbe1f5a37eb063f9c01857b34a805acc5eab1e74c53d3e7a5"
+hash = "cd9c8153bf903c0f86cfa8e91d8fe3d715ce717ca21b02f2e09253910ca2fe0b"
 metafile = true
 
 [[files]]
@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "7a4f169e0788f0d7bc86fcc46ce75cdad55fae6b18a41f9225156f20a5594ab5"
+hash = "124605aa4b1529dac593c5fbfe596f1a1654082fb8b05a2e5961df15ed6ab268"
 metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "251687f755101cfddb7ffc207bb4b5e4557a8763a0c881c7f0d2f8e7d5647c8d"
+hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "f9cd3a51c6e4d7e3dd2afb5cd2306de47394ebe1aed86753cf37c26340444bcd"
+hash = "c243f7f8fd467699f8507c4f90dac98eb51d1023d52c5f6722bddb3985afeeef"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "f7dca6801a9af87578a08bf7ee3dcd9b7040eeb03b63a134c327d1c6cdc53ef4"
+hash = "25655321301c8eb38ba06611730a61efea316d8caa0ed2a2a4c8dab3cdeb25ca"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "0311ca22213f4a9c8fb943619271944d3ffedf7a17f098e8c0f8fad8f897d700"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]
@@ -632,17 +632,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "7677bdb5b22027e463e6c7957fd037d6d3558f25528f166591ca11f1c8980d8b"
+hash = "920b81abd54ce4814980f779e1c85426f50796c2df19e376493781e239c5df71"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c68c6258d8b094a7df631b39160595e81849aa94ff1f7edef748ed008d576c13"
+hash = "5a36ca3c0b61ef2b06e74e679ebe4c8bd1c982326169e64590d943a2a2c759cd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e194df707a7cdf520a118597bfb1b7b8579444c4ee8fea41daed745ae65d6129"
+hash = "112e87290e841a71acc2294ddb7419716a475a4bf8468623cd53f6f5236d55b1"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
-hash = "022a1d72b15028d147e357b1f1f85418f65176315c745cca7420853fff744e7a"
+hash = "fa83a43df0c7545b4c6d9f82f3c50fb6634c965aa742bab3aa626b7b705f09ac"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "c864fd850a79ee3f1c69edb977d258706b89189af86e12e242cffaab589a98c4"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
