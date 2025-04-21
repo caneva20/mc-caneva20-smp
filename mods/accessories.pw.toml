@@ -1,13 +1,13 @@
 name = "Accessories"
-filename = "accessories-neoforge-1.1.0-beta.38+1.21.1.jar"
+filename = "accessories-neoforge-1.1.0-beta.40+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/cz9c8rso/accessories-neoforge-1.1.0-beta.38%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/9caDl4ER/accessories-neoforge-1.1.0-beta.40%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "0d28913839d875a4f980d9a51108849ef94610844d87f12537808fd13c9367856cc4af806688c716d680f11eb01a825387d30bb9cd36c7fcc0980de5a01df23a"
+hash = "4773e9c50b98cf49deb65121b918c80ca660d2d4f1c7bb9771e0ac990f7d20eab37b00df936993b49710cac1b9a34254dba7895f1778db4610df75e5c64ee689"
 
 [update]
 [update.modrinth]
 mod-id = "jtmvUHXj"
-version = "cz9c8rso"
+version = "9caDl4ER"

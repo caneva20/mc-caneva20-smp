@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "91a3da4a93b04b7e7a8e40917c2be34eacdbff7e054ab23c3e788aeec19f523e"
+hash = "198f7f872d0fe7c40702b48e5a073bf4c84b3ab2dad1bef7a1403c380072cc4d"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c6b315c304eb1a3398b44faae2cc2fa42395cf88bc9dea348534f3c1e2924c4e"
+hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "80f18a2835011b88b26287bc30aad5358362054d66e2c874535764c244f915f2"
+hash = "6123739c9d88ae3a1c072034d0560854afd2e67dd7d44fbe46170714ae90724f"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "594c602480366cf07150f21e07dd54558acc23d02bf390022a910781d01b0769"
+hash = "b3059392d5a34aa91a4eabad4e78bf86249f3860154c2b5ceed2e61814e93929"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "32132e1480d1a62a8709c107779fd335cd0d3e03e1a2be9e0e9bfb0e2a02ee5f"
+hash = "55553ccd1062972551333d691b8e9d62f20c62e48d49528919b123dcb84932df"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "509a7bc9911de15e8483adbf94452875dee639fcb2d325f75bc11f77832946e4"
+hash = "19c68c2f99dc061cb213d8a73f7bf1a40cfcfabdde6c6930c09875842576136b"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "6a63278c2c76634c20544514d6d5237d31d78076aed1e0e47b06276aa3293329"
+hash = "c29ea2e8b991a9c0060de48ea98eef0c349966432e56455cfa2901b9f2bbcccd"
 metafile = true
 
 [[files]]
@@ -637,12 +637,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fbac9663eb9bbd453339ebdb5e228b3dcfe1ea6e27ac49735271ffac9c2a1f60"
+hash = "ae8a690bac41094fead0db3d738b51818d96dc791bd470edc88c68eb819e5c75"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3f5eb9466e9cceb7727c0a9cc9d7b37b8f3504516baf7cd234a5dd53f38be727"
+hash = "b986c825bea39343505285e4358f00421771bcc4c3071c93ca0e0c47f53fb5f9"
 metafile = true
 
 [[files]]
