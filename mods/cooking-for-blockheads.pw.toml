@@ -1,13 +1,13 @@
 name = "Cooking for Blockheads"
-filename = "cookingforblockheads-neoforge-1.21.1-21.1.13.jar"
+filename = "cookingforblockheads-neoforge-1.21.1-21.1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vJnhuDde/versions/WmytvZdk/cookingforblockheads-neoforge-1.21.1-21.1.13.jar"
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/ACzw14Mo/cookingforblockheads-neoforge-1.21.1-21.1.14.jar"
 hash-format = "sha512"
-hash = "b4565066cf9f85598c102a0306c18958e43f3d03267d0cd93397ad45deb538a79b852e0c8b046cc82ada103d2293f43d636a29de724fda2ce6213083ac7fb474"
+hash = "0f8a6082536f9b0e3827eb3de57f569a4e81ccbdfe3a566d7eddc585afc5e36da0ba469dd9d2ef625f304c110b070b413ecda5104656a8d818222968d9e6db7f"
 
 [update]
 [update.modrinth]
 mod-id = "vJnhuDde"
-version = "WmytvZdk"
+version = "ACzw14Mo"

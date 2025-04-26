@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "198f7f872d0fe7c40702b48e5a073bf4c84b3ab2dad1bef7a1403c380072cc4d"
+hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "3abd76f2f3d731f0580bd7c6b7905a0b26eecb1ffa9cf427255cfb8898695c81"
+hash = "e2ff387e98fe69721ae218afde8b9ccc5a659e26c107b9d71dd46f7d56fb9ce1"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "6123739c9d88ae3a1c072034d0560854afd2e67dd7d44fbe46170714ae90724f"
+hash = "f0b75be22e49d3f648afdcc38bec03f0c5357383c7acb0938a3899fff13a2e9e"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "124605aa4b1529dac593c5fbfe596f1a1654082fb8b05a2e5961df15ed6ab268"
+hash = "d88788a00e76a1c7489776cddff1e9179676e842a7cd9f04b59ebc9b3e40c7ac"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "0b0b2c7e921305404fe652e860a245687a4cd90b512ff74a85208fab8b437e28"
+hash = "17c5c6f996864306e8c7809c6970532c2519cadf424b114238614250f1a01f1b"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "55553ccd1062972551333d691b8e9d62f20c62e48d49528919b123dcb84932df"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "19c68c2f99dc061cb213d8a73f7bf1a40cfcfabdde6c6930c09875842576136b"
+hash = "735a2f161f0d88f7b80571c9ec2a97f9f88763fee406f4a8157752280a1d3e4c"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "5c576ee00b07cafe6a2eb04b84d89a5cc61ee21a6e66cb81522ab5970f8a7229"
+hash = "b915303d8d15cd0ba7db5cb8dbf06ec4babef3b699ce7162a14392ccadddd389"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "35ecf5a8ecf2d7b1a2b79f5d24a093e21d23f12486dcd71689894758d2fbe832"
+hash = "9c454f3b26fea7aa3e04b6edecf5707a74927dcf63715ffa01b248bd9ffefc41"
 metafile = true
 
 [[files]]
@@ -632,17 +632,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "554254fbc9d95b93cb5f5677e42d8728f6a501de895e794a5909a995618ef2af"
+hash = "d5aae4402ba9166ee78445ece08b9b4495da98f8a21bbb8583652989c9fc2646"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ae8a690bac41094fead0db3d738b51818d96dc791bd470edc88c68eb819e5c75"
+hash = "d73b1e2c752ff749aa7da55917d8cafb3d6d5a57b72850ef7f3ddd2b28c113eb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b986c825bea39343505285e4358f00421771bcc4c3071c93ca0e0c47f53fb5f9"
+hash = "540493adcbc7901341d61f8734493ab7cab8264693f12e5160a861cbe59eae00"
 metafile = true
 
 [[files]]
