@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "7d3e4d3ce7fc8d51b516164af6f51bac2a5dff40c20dee59d426d9c08e5ab139"
+hash = "5dbef16af5f6ba5c4e457b90c6c71e25158397a575f09c637583c10a367377c2"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b3059392d5a34aa91a4eabad4e78bf86249f3860154c2b5ceed2e61814e93929"
+hash = "854fb96ea33b43cc940325e483124d96209aca17832b9634623377c844271b83"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d73b1e2c752ff749aa7da55917d8cafb3d6d5a57b72850ef7f3ddd2b28c113eb"
+hash = "4a0635f1a5dc2397b7367ecd8d1a7d5968d6b5ac3d81b2cf7988a45594e77cd9"
 metafile = true
 
 [[files]]
