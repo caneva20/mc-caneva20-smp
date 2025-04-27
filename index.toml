@@ -206,6 +206,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "0edbe41ec852f0196ac24f0accc5f36a91b0c3f5208b876f46084e026b1f1adb"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
@@ -631,6 +641,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "af12a060ca760b3da7dea3a9de2a75fdf57a01a565d2d3f79f33238501ad1821"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d5aae4402ba9166ee78445ece08b9b4495da98f8a21bbb8583652989c9fc2646"
 metafile = true
@@ -638,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4a0635f1a5dc2397b7367ecd8d1a7d5968d6b5ac3d81b2cf7988a45594e77cd9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "2decbc6f339b51e254000143b9f3a6bdea85ff28a661f693ee5352a81c0c5cf3"
 metafile = true
 
 [[files]]

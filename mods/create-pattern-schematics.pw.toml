@@ -1,0 +1,13 @@
+name = "Create: Pattern Schematics"
+filename = "create_pattern_schematics-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cpqKG67r/versions/Glvys45y/create_pattern_schematics-2.0.6.jar"
+hash-format = "sha512"
+hash = "890f4272a0cd990bf577e1c927615251fd20f3c7eb235676de7dfe0827cbc559b8dd306a3c7ec416a31fb5c488950da777ab2bd3a05a0b29d8ddab7ea7b5756b"
+
+[update]
+[update.modrinth]
+mod-id = "cpqKG67r"
+version = "Glvys45y"
