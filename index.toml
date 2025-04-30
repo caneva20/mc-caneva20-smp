@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "854fb96ea33b43cc940325e483124d96209aca17832b9634623377c844271b83"
+hash = "8c15629383377a143b061fbecde2b9a33e036e3dca6d578b3d3734b05240ce20"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "b915303d8d15cd0ba7db5cb8dbf06ec4babef3b699ce7162a14392ccadddd389"
+hash = "39261ba5716225d4fcfe98701080fe78ad1832419f620a3789390a5998e918bf"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d5aae4402ba9166ee78445ece08b9b4495da98f8a21bbb8583652989c9fc2646"
+hash = "4357c5d5ff1a2caae833d09a88f1c228de513ebd150801f0b0f871c7adb81f9f"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "540493adcbc7901341d61f8734493ab7cab8264693f12e5160a861cbe59eae00"
+hash = "936a500bf9bfa4196ce65dd7709d54786badd36b907d5461ff07da80eb7163f1"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "5aa43903423c9fec48bcd375ab17890fe86c66a2a82574b8ebd7a4f5a5e29720"
+hash = "a80c3d0cdcc41c4cfd494016794fbbef3711b0ef392142eb82f5cd5c43ae9569"
 metafile = true
 
 [[files]]
