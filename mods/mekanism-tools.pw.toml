@@ -1,6 +1,7 @@
 name = "Mekanism Tools"
 filename = "MekanismTools-1.21.1-10.7.13.78.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/tqQpq1lt/versions/jXSh2neR/MekanismTools-1.21.1-10.7.13.78.jar"
