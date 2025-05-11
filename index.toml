@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
+hash = "c0d18ec0bdd9b50d1982ea8b5191c15291eda08570c63a08c7792474e443a148"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "e6d098a2e20d8d37b66a7800993c4769b2b5da0034ac71fedb3b7e4a29b1d954"
+hash = "643dc9d067486908bcaae3cd97b0690c71f6b7ce9b05d1613071e8a40984831e"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/cooking-for-blockheads.pw.toml"
-hash = "f0b75be22e49d3f648afdcc38bec03f0c5357383c7acb0938a3899fff13a2e9e"
+hash = "b07998c0a3b88e78e1aac5557c2c0470bdb3341f97b7f355291171746b114c6a"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
@@ -407,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f125710f0dfa3c6dbc384fc7b28f4f35f5cbabd3ea272d090d13cb8dc31c2d5d"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "fba9c1c9c27cdd4f6d9481f7733f068100a67812738c4db38c4208b28d3606b8"
+hash = "45f0b66c7a14e09b96053f68a3d46c482868ca47a2c64286704707c421ffab2d"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "1dc16fe98446b86b94a8bfa08f07accf11a7b07fc39730b2e7b32560dcaf1c45"
+hash = "5bcd4dcb3e0aaa0d31477e3b87198b4dea056c4e7568cb3afa8f3f045e01916f"
 metafile = true
 
 [[files]]
@@ -647,12 +647,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4357c5d5ff1a2caae833d09a88f1c228de513ebd150801f0b0f871c7adb81f9f"
+hash = "a3729dc474546292cce55eda935714dfaa29283b42e99a9b97abda002c0ba0f7"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "303d0373d4e5568225e6da3ff61786bb0225d99636eed4b75d46f3dc9f4d585a"
+hash = "36cfee564b3edb18f61b166765273fc477b45aeee25b248cc9cfd20bb2f6a86c"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "936a500bf9bfa4196ce65dd7709d54786badd36b907d5461ff07da80eb7163f1"
+hash = "1bbc7073ac0e1410a24b4cd42a906f94892068bcae67e237fa1f2e49cef8b749"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "2061557bfc521cf474fd51239229d5fd619097038b73d08de2208fdd4f13d729"
+hash = "fed70922aa664ae4fa9a0cdee229c5f267898e644ec9de4fdd00f55b8ea2a8fa"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "76106b9ed7a255d778219a296d9ae03538da6a6a0bc98bb34476d6c9225e133f"
+hash = "6377c5bebeb5cda8b79689a2921ec8bd6cb2188b8e66c3e37c9c6ab03bf0d19f"
 metafile = true
 
 [[files]]
