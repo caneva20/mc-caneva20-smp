@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "643dc9d067486908bcaae3cd97b0690c71f6b7ce9b05d1613071e8a40984831e"
+hash = "346b93ea37f38840009677ac255810d688e1e322b3de264e66142ce74d55ee26"
 metafile = true
 
 [[files]]
@@ -208,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "0edbe41ec852f0196ac24f0accc5f36a91b0c3f5208b876f46084e026b1f1adb"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "ebbdce8f5c7d1cfabceba8c521168c6af4b2e83048abf6ca8a2cf28799abd091"
 metafile = true
 
 [[files]]
@@ -307,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "10c959850aaa8e63af7de0eb493b2d1601dedefcf18322d110f4a0f21fbee1e4"
+hash = "244e0acbb53168401b617c4a79f327ea17e767175e88fce35af4647fd7c60cac"
 metafile = true
 
 [[files]]
@@ -472,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "3981df996fe7f9b27da1cd2b20de4182d928114a98c7de3de56d9104833bc65f"
+hash = "c3d1b07d4d48be61d1e1851fa28e9e3dae9ed4bbbc96dbfc47096e670d605fb4"
 metafile = true
 
 [[files]]
@@ -482,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
+hash = "03c861a5aaf95301c62aa14c2a96fdb431d43d92339de0f47c4ae62a0fff18d2"
 metafile = true
 
 [[files]]
@@ -607,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "18a8e2fb290df026bdb8a1022c5209afc851cddf9253631d179bf4c225b120f7"
+hash = "e75a92a9c6285a8015b37fb673d4799b8d8531ed81af2ccdf9214b76b8fb7b26"
 metafile = true
 
 [[files]]
@@ -652,27 +657,27 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "af12a060ca760b3da7dea3a9de2a75fdf57a01a565d2d3f79f33238501ad1821"
+hash = "a17bcaf98bd9ac23de55ee9a5fd847dbdf61221cbdc8fb77eb8fd78bc381bc2b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6aa50ee43365752d9f25b9b30cbc89728f1ca9f598e4a2e6995a2f9e0fce50b0"
+hash = "71f50f5be1b94408ab598b5714c6b89a2b4f76b53d8877143d8a136684cba4b4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "69d33d2f52bc3aab570fd54c565771a51d0c1d289b64a40159660b82e4394221"
+hash = "0a6f800dd6d1cddbf8df8bb2a3eefde9eacd2009cfb1d474e9b8c1b726763321"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "2decbc6f339b51e254000143b9f3a6bdea85ff28a661f693ee5352a81c0c5cf3"
+hash = "2d8223a7d0a48939db896d6e4e87d9496d54bc015d51fab98e7b236ee5fe3d71"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "895079150a291d874bc61b119905f9543b3062bbeedb37712ba7482c2b78ad62"
+hash = "d53d7bb7fd7dd651cffbb594e59b804ed61f277cdf91e88a371afe81f3ab74c7"
 metafile = true
 
 [[files]]
@@ -737,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "b64cd44b70986cec4f68968cfb55b33a02232521d2fe8b4d44141ef18cdbb150"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
