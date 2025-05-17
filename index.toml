@@ -10,7 +10,7 @@ hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/permit_diamond.json"
-hash = "7436f9fa918935e13f1265647afee59008931df8d861f48ff6783540d8837d95"
+hash = "25e968ee44211d398ed05f1c8c5729b66c74bb62e5b5dc09c310c333aaf5fd69"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/permit_gold.json"
@@ -19,6 +19,10 @@ hash = "ee2029550ee16c84fc66a8e79a07a2e9fe5cf695f01c0110f18e6691d51f29b8"
 [[files]]
 file = "kubejs/assets/kubejs/models/item/permit_iron.json"
 hash = "1c849561f91160ea7989a41b5659487b7f4e11157e5f98999060d23be03bae21"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/real.json"
+hash = "45dba7180569fa222e2bd16912ae12ac14f314e0c121563d2561c028bf46dbc6"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/permit_diamond.png"
@@ -33,12 +37,20 @@ file = "kubejs/assets/kubejs/textures/item/permit_iron.png"
 hash = "940cee287e0872569d4def966521e7b14207e1449271cce682c5520ece0017b8"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/real.png"
+hash = "c9fc98558c532b3c392f9f6662d7b97e388ad9b50d64c4af3bc1a0045deea633"
+
+[[files]]
 file = "kubejs/client_scripts/jsconfig.json"
 hash = "bf3c8597df0521316f23f9412e02e076f925275dab3af1146a54fe008dfedcb1"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/daily_reward.js"
+hash = "fad157892380ac2c844ce803feb63b0eb7b7e3af532e6b13c45a0bbecea54462"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
@@ -59,6 +71,10 @@ hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
 [[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "ef6384cba53796c7fdbd442d85d9ebdb8a21cb9fbb8d56be39340483640e18d7"
+
+[[files]]
+file = "kubejs/startup_scripts/register-real.js"
+hash = "275b72484249d545b17535d2b1331e1bd6f6df1bed9319d7da3e669c17ba8d03"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -133,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "9ac4b1561ea7c44ce427edadb181fb3785e423727f50900e7668ccf00b386979"
 metafile = true
 
 [[files]]
@@ -621,6 +642,11 @@ hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
 metafile = true
 
 [[files]]
+file = "mods/simplehats.pw.toml"
+hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
 metafile = true
@@ -667,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0a6f800dd6d1cddbf8df8bb2a3eefde9eacd2009cfb1d474e9b8c1b726763321"
+hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
 metafile = true
 
 [[files]]
@@ -677,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "d53d7bb7fd7dd651cffbb594e59b804ed61f277cdf91e88a371afe81f3ab74c7"
+hash = "6b2795f7cb2b1f22411efa5e413b46f62de9f9e8bdebe228738e43b816b14024"
 metafile = true
 
 [[files]]
@@ -757,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9bf4e265e0a89520bbe60b051f84609c9c5f53e50fe8b7b1473bcbefff905bad"
+hash = "639eeffde2132abdb13f5d9032a174c6e59feda680ac04a15c6962dfee9ab18a"
 metafile = true
 
 [[files]]
