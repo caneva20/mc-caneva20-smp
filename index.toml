@@ -572,11 +572,6 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
-file = "mods/neoforwarding.pw.toml"
-hash = "94ac63ec3a30c470057722d73c2da7fa150caa45c8d5edade599b64f3bf5cd8f"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "85c2dc4815f0e53e5973eb3f0a16994ea6db92a6c6565f40385880e81d1119fc"
 metafile = true
@@ -624,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
+metafile = true
+
+[[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "9298c71cb4097016d0ef14c35be9feadb2f5b6ac5b98376bd3efd64cc31dec58"
 metafile = true
 
 [[files]]
