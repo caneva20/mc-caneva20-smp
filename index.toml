@@ -83,12 +83,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
+hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "8adf4d915ba934600a112113b9bfcb36a571d14e52872c6c93c015351bb1bf34"
+hash = "643730e6305a8bc4ac6f3d24821b495c36d713fa9fcdaca3bb6f4e8183c2f26f"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "146dd7165c696bfa10cd8e6fa90dd5b2578244ecd35e041557b76b0cff2d0fa6"
+hash = "5be6142a7064df1e96149f505f4474c06b88e392629d6bc5552b5b2da98c8ace"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "f4015f21ab6f4c3dacbf58427c1216a01dd497dce7334ae427b41340690b6b5b"
+hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
 metafile = true
 
 [[files]]
@@ -228,12 +228,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "c63270ea90901dbb5c515ad2ca574e3d390fea86c22c239e30da919625be0741"
+hash = "a75cc9645368acbba1513db4558b1e281c7eea5d77246fb232a2df55b96b09a6"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "a003f242af42201fc9ff0df93004424bca32955e3bb870a302ea585f83fcc657"
+hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "71ec5ffe9db79fdb1c8e0e0ec801e36e98f7e09a59300e478476658da428b5c8"
+hash = "d9fbc865e641d7a7e098e4a6c30263ec728b07ebd8caf6e9525360fab43529b8"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c3d1b07d4d48be61d1e1851fa28e9e3dae9ed4bbbc96dbfc47096e670d605fb4"
+hash = "38d730bb5b97728aa45340362ba78fc44886d7efb7c1fce92282d9b150ed82d8"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "03c861a5aaf95301c62aa14c2a96fdb431d43d92339de0f47c4ae62a0fff18d2"
+hash = "2119d22a1869118e389237716e0f66bd58c4f3f2b4a0dd1e7558721860afdca7"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
+hash = "690b7aeff798f99fa3600efa5824eeea97c43c841b6eba4263d6c0607a510d54"
 metafile = true
 
 [[files]]
@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "fed70922aa664ae4fa9a0cdee229c5f267898e644ec9de4fdd00f55b8ea2a8fa"
+hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
 metafile = true
 
 [[files]]
