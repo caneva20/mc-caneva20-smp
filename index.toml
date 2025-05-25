@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "9a31384e891fd38ae4cdc606612eb6017cdc436cef194c22e58c36d8c942db90"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "0edbe41ec852f0196ac24f0accc5f36a91b0c3f5208b876f46084e026b1f1adb"
+hash = "c7bdcceb2a961e894368e6e3fd9e354831af9e8e3b00765f4b7b333d2883ba8b"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "d9fbc865e641d7a7e098e4a6c30263ec728b07ebd8caf6e9525360fab43529b8"
+hash = "9c548f782957405fa20f19a150c61e8adf9f7655d89be76ee946100dad459646"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "38d730bb5b97728aa45340362ba78fc44886d7efb7c1fce92282d9b150ed82d8"
+hash = "3676ef5b15140308e6b98ca9d3dd005dde5fda97099539d74531cb9dccd1b781"
 metafile = true
 
 [[files]]
@@ -733,12 +733,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "2d8223a7d0a48939db896d6e4e87d9496d54bc015d51fab98e7b236ee5fe3d71"
+hash = "e75a832192395476b6d2b7f02a8dfdfd135a1fa63a2c5e566c3578a906229315"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "6b2795f7cb2b1f22411efa5e413b46f62de9f9e8bdebe228738e43b816b14024"
+hash = "0b76888550a9ca7e9f847cc14ed87e861de9e73b33d6c8352640b18d0371e862"
 metafile = true
 
 [[files]]
