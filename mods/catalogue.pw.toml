@@ -1,13 +1,13 @@
 name = "Catalogue"
-filename = "catalogue-neoforge-1.21.1-1.11.1.jar"
+filename = "catalogue-neoforge-1.21.1-1.11.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f2f2286d229ac1d10534f61f084d29dde4836442"
+hash = "6d67f855c20bc6392763cfb22e1152da4e8015b4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6458225
+file-id = 6926815
 project-id = 459701
