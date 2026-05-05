@@ -15,6 +15,42 @@ file = "config/accessories.json5"
 hash = "5ff307b915b1b7f7f85aeb3cb9bb53269ba67a78a3b0c391a8c6fc82ee95b98e"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/real.json"
+hash = "45dba7180569fa222e2bd16912ae12ac14f314e0c121563d2561c028bf46dbc6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/real.png"
+hash = "c9fc98558c532b3c392f9f6662d7b97e388ad9b50d64c4af3bc1a0045deea633"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "bf3c8597df0521316f23f9412e02e076f925275dab3af1146a54fe008dfedcb1"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "ef6384cba53796c7fdbd442d85d9ebdb8a21cb9fbb8d56be39340483640e18d7"
+
+[[files]]
+file = "kubejs/startup_scripts/register-real.js"
+hash = "9ca9571ed2687183009df4d70e5afc70ab55c1dca5428614b032c7f114c3ca18"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
