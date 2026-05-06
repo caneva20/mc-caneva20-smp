@@ -1,0 +1,23 @@
+{
+  "id": "bellsandwhistles:pilot",
+  "contents": [
+    "item:bellsandwhistles:andesite_pilot",
+    "item:bellsandwhistles:brass_pilot",
+    "item:bellsandwhistles:copper_pilot",
+    "item:bellsandwhistles:metal_pilot",
+    "item:bellsandwhistles:polished_andesite_pilot",
+    "item:bellsandwhistles:polished_granite_pilot",
+    "item:bellsandwhistles:polished_diorite_pilot",
+    "item:bellsandwhistles:polished_deepslate_pilot",
+    "item:bellsandwhistles:polished_dripstone_pilot",
+    "item:bellsandwhistles:polished_tuff_pilot",
+    "item:bellsandwhistles:polished_calcite_pilot",
+    "item:bellsandwhistles:polished_limestone_pilot",
+    "item:bellsandwhistles:polished_scoria_pilot",
+    "item:bellsandwhistles:polished_scorchia_pilot",
+    "item:bellsandwhistles:polished_crimsite_pilot",
+    "item:bellsandwhistles:polished_ochrum_pilot",
+    "item:bellsandwhistles:polished_veridium_pilot",
+    "item:bellsandwhistles:polished_asurine_pilot"
+  ]
+}

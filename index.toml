@@ -15,6 +15,78 @@ file = "config/accessories.json5"
 hash = "5ff307b915b1b7f7f85aeb3cb9bb53269ba67a78a3b0c391a8c6fc82ee95b98e"
 
 [[files]]
+file = "config/emixx/emixx-client.toml"
+hash = "b17b91c826150a8b1e1e1a9e6698149db76c704809c75bfb779053b87662a5cf"
+
+[[files]]
+file = "config/emixx/groups/aeronautics_envelope.json"
+hash = "4cf8c805b54df6096d958582910a5420ec83d9752ba42d362a7c6b107f6cde34"
+
+[[files]]
+file = "config/emixx/groups/bellsandwhistles_pilot.json"
+hash = "799e71f5757aa7415cda1b9d4c955506a4df847b5bdb37672252c3e18e5e0fb0"
+
+[[files]]
+file = "config/emixx/groups/comforts_hammock.json"
+hash = "25608170cd94d3217086d748409c0f4571803162d0bb424f3599619c858cd5be"
+
+[[files]]
+file = "config/emixx/groups/comforts_sleeping_bag.json"
+hash = "ed75de3ef68221e368eca03ec0f12367b51cf4b7735016e393fde048afb5f527"
+
+[[files]]
+file = "config/emixx/groups/simulated_handle.json"
+hash = "c36afebcec90571fad0d009d6e4a480d248a246d2d11302591398819e2926402"
+
+[[files]]
+file = "config/emixx/groups/simulated_nameplate.json"
+hash = "6496a23863fd1f770152dbd1321b6c6fe993a8322d532dfff014fd6a2f7a50bb"
+
+[[files]]
+file = "config/emixx/groups/simulated_portable_engine.json"
+hash = "33d92f6ffdac7b5eda3d2b8a5c5fcbe312d6c5987c60da0991c6fe233791cb2f"
+
+[[files]]
+file = "config/emixx/groups/sophisticatedstorage_backpack.json"
+hash = "d0c9ecc95819346dd3f4dd4e384ed3c1bcdbc72faa95f8b71036095539be3619"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_awning.json"
+hash = "57bfb25dbbc47442c4470066949b28495623933a51df320e12492ac60e9a5f75"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_bamboo_spikes.json"
+hash = "8dadaa9375b5c5a0629dc835efa8822721d360628e4a57d2541563b207559fc6"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_bunting.json"
+hash = "5fd44b1e47f01afe97fe1903341cb723b6564b92e3db9b654a753278f03dc689"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_candle_holder.json"
+hash = "0193695a7f7617f11fae23adb121bae5cdeb349d4fb1f5382311348521181a9a"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_flag.json"
+hash = "57daa959d165d109bae65feaba804f32fa8ea39af6e3309ce8cc7400adf784b5"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_present.json"
+hash = "90cff0eae963b8f2247dc31838be866b8e4ed9c324a65cc0762b4b0903c5bfe6"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_trapped_present.json"
+hash = "9a170ac8f9c6ec9664338a9d5b161274cdf77d65e7fd3dcd2610a9e98c24d536"
+
+[[files]]
+file = "config/emixx/groups/supplementaries_way_sign.json"
+hash = "c61cfaf78375107eb89d476f27cc2c2e7349db0c33179c28b02a2f3106a9bdea"
+
+[[files]]
+file = "config/emixx/groups/terralith_biomes.json"
+hash = "19e08d009795cccc23ef874c60e9e7a956cbbadcc9f87588ac5f5325c1de5052"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 

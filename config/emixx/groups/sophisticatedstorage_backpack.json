@@ -1,0 +1,23 @@
+{
+  "id": "sophisticatedstorage:backpack",
+  "contents": [
+    "item:sophisticatedbackpacks:backpack",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-393218,\"sophisticatedcore:main_color\":-393218}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-425955,\"sophisticatedcore:main_color\":-425955}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-3715395,\"sophisticatedcore:main_color\":-3715395}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-12930086,\"sophisticatedcore:main_color\":-12930086}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-75715,\"sophisticatedcore:main_color\":-75715}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-8337633,\"sophisticatedcore:main_color\":-8337633}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-816214,\"sophisticatedcore:main_color\":-816214}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-12103854,\"sophisticatedcore:main_color\":-12103854}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-6447721,\"sophisticatedcore:main_color\":-6447721}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-15295332,\"sophisticatedcore:main_color\":-15295332}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-7785800,\"sophisticatedcore:main_color\":-7785800}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-12827478,\"sophisticatedcore:main_color\":-12827478}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-8170446,\"sophisticatedcore:main_color\":-8170446}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-10585066,\"sophisticatedcore:main_color\":-10585066}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-5231066,\"sophisticatedcore:main_color\":-5231066}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-14869215,\"sophisticatedcore:main_color\":-14869215}",
+    "item:sophisticatedbackpacks:backpack{\"sophisticatedcore:accent_color\":-13881243,\"sophisticatedcore:main_color\":-3087822}"
+  ]
+}
