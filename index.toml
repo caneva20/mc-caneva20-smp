@@ -391,6 +391,16 @@ hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "89e18f90b2476b7f9e518cfa237c6daed3091043e3f22db3dd38c2da5b26ede5"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "73676c3479246a54890fc2f4518470593f97cbc57525839626738a5efce06b4f"
+metafile = true
+
+[[files]]
 file = "mods/effortless.pw.toml"
 hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
 metafile = true
