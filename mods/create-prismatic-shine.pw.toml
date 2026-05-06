@@ -1,13 +1,13 @@
 name = "Create: Prismatic Shine"
-filename = "createprism-1.1.3.jar"
+filename = "createprism-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/udEtt0b2/versions/py25OKuK/createprism-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/udEtt0b2/versions/vqDdDeYi/createprism-1.2.0.jar"
 hash-format = "sha512"
-hash = "023f0a18a4f8c950d5d6634067e8598fc38cedf8d7bf6b7fce04236998f628014e5bae86ad5dfdd498e46dd045ce3d92b31e0bf95c3c5f07c583bf2d8f04c63b"
+hash = "fda6f64ae801e5a1643b87184a215efe5bef99544356321208673251a3115c0402bda4d76654507577212322b85513b02c74798899b5729aa3122b67bdc7574c"
 
 [update]
 [update.modrinth]
 mod-id = "udEtt0b2"
-version = "py25OKuK"
+version = "vqDdDeYi"
