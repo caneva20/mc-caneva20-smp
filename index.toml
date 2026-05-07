@@ -473,11 +473,6 @@ hash = "73676c3479246a54890fc2f4518470593f97cbc57525839626738a5efce06b4f"
 metafile = true
 
 [[files]]
-file = "mods/effortless.pw.toml"
-hash = "fb15c2081315f5d57a085056246f0f2c221e318bb81564ca631220fea650bb35"
-metafile = true
-
-[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
