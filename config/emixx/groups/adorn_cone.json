@@ -1,0 +1,22 @@
+{
+  "id": "adorn:cone",
+  "contents": [
+    "item:adorn:black_cone",
+    "item:adorn:blue_cone",
+    "item:adorn:brown_cone",
+    "item:adorn:cyan_cone",
+    "item:adorn:gray_cone",
+    "item:adorn:green_cone",
+    "item:adorn:light_blue_cone",
+    "item:adorn:light_gray_cone",
+    "item:adorn:lime_cone",
+    "item:adorn:magenta_cone",
+    "item:adorn:obsidian_cone",
+    "item:adorn:orange_cone",
+    "item:adorn:pink_cone",
+    "item:adorn:purple_cone",
+    "item:adorn:red_cone",
+    "item:adorn:white_cone",
+    "item:adorn:yellow_cone"
+  ]
+}

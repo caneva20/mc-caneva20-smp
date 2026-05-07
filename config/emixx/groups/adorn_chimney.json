@@ -1,0 +1,13 @@
+{
+  "id": "adorn:chimney",
+  "contents": [
+    "item:adorn:nether_brick_chimney",
+    "item:adorn:red_nether_brick_chimney",
+    "item:adorn:stone_brick_chimney",
+    "item:adorn:brick_chimney",
+    "item:adorn:cobblestone_chimney",
+    "item:adorn:magmatic_prismarine_chimney",
+    "item:adorn:prismarine_chimney",
+    "item:adorn:soulful_prismarine_chimney"
+  ]
+}

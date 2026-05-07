@@ -1,0 +1,21 @@
+{
+  "id": "adorn:planks",
+  "contents": [
+    "item:adorn:black_planks",
+    "item:adorn:blue_planks",
+    "item:adorn:brown_planks",
+    "item:adorn:cyan_planks",
+    "item:adorn:gray_planks",
+    "item:adorn:green_planks",
+    "item:adorn:light_blue_planks",
+    "item:adorn:light_gray_planks",
+    "item:adorn:lime_planks",
+    "item:adorn:magenta_planks",
+    "item:adorn:orange_planks",
+    "item:adorn:pink_planks",
+    "item:adorn:purple_planks",
+    "item:adorn:red_planks",
+    "item:adorn:white_planks",
+    "item:adorn:yellow_planks"
+  ]
+}

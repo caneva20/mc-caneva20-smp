@@ -1,0 +1,13 @@
+{
+  "id": "adorn:caution_sign",
+  "contents": [
+    "item:adorn:bee_caution_sign",
+    "item:adorn:book_caution_sign",
+    "item:adorn:caution_sign",
+    "item:adorn:cliff_caution_sign",
+    "item:adorn:forbidden_caution_sign",
+    "item:adorn:helmet_caution_sign",
+    "item:adorn:rails_caution_sign",
+    "item:adorn:surprise_caution_sign"
+  ]
+}

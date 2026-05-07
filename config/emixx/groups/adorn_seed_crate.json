@@ -1,0 +1,4 @@
+{
+  "id": "adorn:seed_crate",
+  "contents": ["item:adorn:beetroot_seed_crate", "item:adorn:wheat_seed_crate"]
+}

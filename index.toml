@@ -15,8 +15,124 @@ file = "config/accessories.json5"
 hash = "5ff307b915b1b7f7f85aeb3cb9bb53269ba67a78a3b0c391a8c6fc82ee95b98e"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "9491d1bb2d79a5edc40e2c7dfc004532ed54b62c03c181e2d51dc5631d50c8b2"
+
+[[files]]
+file = "config/darkmodeeverywhereshaders.json"
+hash = "6980fd7f6655a89b21efe27d53e4953fa047d212ebc0b34ffa35446b9ee77d7f"
+
+[[files]]
 file = "config/emixx/emixx-client.toml"
 hash = "b17b91c826150a8b1e1e1a9e6698149db76c704809c75bfb779053b87662a5cf"
+
+[[files]]
+file = "config/emixx/groups/adorn_bench.json"
+hash = "c67ed3f818ef36335ba62225b9f4c97eae13e93d3a41bd8da80342c4132aaac6"
+
+[[files]]
+file = "config/emixx/groups/adorn_candlelit_lantern.json"
+hash = "0a4c381f51b4ffa38219485dec9305071d1e1fa28157d69e39aefa461b406c9d"
+
+[[files]]
+file = "config/emixx/groups/adorn_caution_sign.json"
+hash = "cb0e5b2f4b1af685b49aeed9abd2cb5f037c9d8085b5eede8c121b9296f70304"
+
+[[files]]
+file = "config/emixx/groups/adorn_chair.json"
+hash = "77251102ee63efa98f3a272a4650778c9a82d54f07049e8558d5e4feb00e5433"
+
+[[files]]
+file = "config/emixx/groups/adorn_chimney.json"
+hash = "e141527892de9a88ca9a6fd5edfa40ed4ec670af60cfd095388dda439f158e01"
+
+[[files]]
+file = "config/emixx/groups/adorn_coffee_table.json"
+hash = "531941c930c244a62783d99e24ebad741311df1f732c081da02c3af3fd781fe9"
+
+[[files]]
+file = "config/emixx/groups/adorn_cone.json"
+hash = "c7a1074dc7e8a24051451ee918d777313e9192c027a643058c4610232ce1d39a"
+
+[[files]]
+file = "config/emixx/groups/adorn_crate.json"
+hash = "42e4758402d1adb6943cf1e1135da5e54ddb71f71afc1b17cb872562080a09e8"
+
+[[files]]
+file = "config/emixx/groups/adorn_drawer.json"
+hash = "5696ea34232646e8c66defc8c4411d2c0a06d8191cebfb14f1f29404c82bbc0b"
+
+[[files]]
+file = "config/emixx/groups/adorn_kitchen_counter.json"
+hash = "fe892f6787fc9ed7c8485770aab7c8f5457ac6dae97ed18c4ff19f85a3488565"
+
+[[files]]
+file = "config/emixx/groups/adorn_kitchen_cupboard.json"
+hash = "6bc8e54a2fc011f4c293044463d9a318cb487f8c99adff74bea226c60a60671c"
+
+[[files]]
+file = "config/emixx/groups/adorn_kitchen_sink.json"
+hash = "f3674d8e854700d47f4686945b779513916231bc01807de2c7ed3900b79dc660"
+
+[[files]]
+file = "config/emixx/groups/adorn_planks.json"
+hash = "51f5398233ee38595527f72b04e29aa0b2c2b83e06cb7f6451df8d71799453e8"
+
+[[files]]
+file = "config/emixx/groups/adorn_platform.json"
+hash = "da14eb203ca1de8fc669cc6de0c047d03ac66b5838717d4019662af25fefa8e6"
+
+[[files]]
+file = "config/emixx/groups/adorn_post.json"
+hash = "ed5e33289b30f6a3c0e07865501d456f859a042a0fa567f13d5274cbee3a2ab8"
+
+[[files]]
+file = "config/emixx/groups/adorn_seed_crate.json"
+hash = "35778b6a5bf89f9cbd30607ab0ecf359accad3307b7d352a3e99f00461428b28"
+
+[[files]]
+file = "config/emixx/groups/adorn_shelf.json"
+hash = "c3fd251c89bb0f0e9b2ed0baa0cd35902fecc08203ac4c9bc50851786c6ae8fe"
+
+[[files]]
+file = "config/emixx/groups/adorn_sofa.json"
+hash = "9db2f68849ca4c88c279e398bbdfbe92ad48e7ea98a4046b90eb0ece8256301b"
+
+[[files]]
+file = "config/emixx/groups/adorn_step.json"
+hash = "38534bb73bdd37385467d158eeb39534cac0dd2cdd49077d864c033b49ff2a02"
+
+[[files]]
+file = "config/emixx/groups/adorn_table.json"
+hash = "f851457f3c345352f4958ff27afa1034b0d78d667f2300617b9550684e7a7884"
+
+[[files]]
+file = "config/emixx/groups/adorn_table_lamp.json"
+hash = "d5cabf901375c865dc36f78124ae7c632aecf50a3fc32f69a6e118ba495155de"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_button.json"
+hash = "43770ef9c3c3b2a2c83f9af64bd1f056af0e3833ca6a8293b0dbfa8ab1b4cbf6"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_fence.json"
+hash = "2c3338be085b0ab9ae4108dfe1de03f6e2909a3a54d46e43551476eb2ba2267d"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_fence_gate.json"
+hash = "04f6a2301a0418dc61eb19785302f4e53bdffb39a871d86b6245cb3e3c1c66ae"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_pressure_plate.json"
+hash = "e7035c37e88a370a24e9a47656a2c98df2562619eff0a13073d6b9e58dce1191"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_slab.json"
+hash = "7f9ee0676dd21deb133f183a82c7ab241049d6db9da198b32105f257f8f7c565"
+
+[[files]]
+file = "config/emixx/groups/adorn_wood_stairs.json"
+hash = "9e8a5cf221339044ca8ccf37b5787485effabea920be1989aa77d115a089f114"
 
 [[files]]
 file = "config/emixx/groups/aeronautics_envelope.json"
@@ -85,6 +201,14 @@ hash = "c61cfaf78375107eb89d476f27cc2c2e7349db0c33179c28b02a2f3106a9bdea"
 [[files]]
 file = "config/emixx/groups/terralith_biomes.json"
 hash = "19e08d009795cccc23ef874c60e9e7a956cbbadcc9f87588ac5f5325c1de5052"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "e9e01bd2b9b37ae6a0dbc9e3b035a4b8bb88cc2378fa277bf73c8a3a97beb304"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "b5a8029c8364020cdd03d2c39e848b74bd6e3a8df83cb70638849592e0c94b22"
 
 [[files]]
 file = "kubejs/README.txt"

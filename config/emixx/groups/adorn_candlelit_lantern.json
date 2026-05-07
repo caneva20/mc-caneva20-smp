@@ -1,0 +1,21 @@
+{
+  "id": "adorn:candlelit_lantern",
+  "contents": [
+    "item:adorn:black_candlelit_lantern",
+    "item:adorn:blue_candlelit_lantern",
+    "item:adorn:brown_candlelit_lantern",
+    "item:adorn:cyan_candlelit_lantern",
+    "item:adorn:gray_candlelit_lantern",
+    "item:adorn:green_candlelit_lantern",
+    "item:adorn:light_blue_candlelit_lantern",
+    "item:adorn:light_gray_candlelit_lantern",
+    "item:adorn:lime_candlelit_lantern",
+    "item:adorn:magenta_candlelit_lantern",
+    "item:adorn:orange_candlelit_lantern",
+    "item:adorn:pink_candlelit_lantern",
+    "item:adorn:purple_candlelit_lantern",
+    "item:adorn:red_candlelit_lantern",
+    "item:adorn:white_candlelit_lantern",
+    "item:adorn:yellow_candlelit_lantern"
+  ]
+}

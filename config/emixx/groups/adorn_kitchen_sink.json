@@ -1,0 +1,32 @@
+{
+  "id": "adorn:kitchen_sink",
+  "contents": [
+    "item:adorn:acacia_kitchen_sink",
+    "item:adorn:bamboo_kitchen_sink",
+    "item:adorn:birch_kitchen_sink",
+    "item:adorn:black_kitchen_sink",
+    "item:adorn:blue_kitchen_sink",
+    "item:adorn:brown_kitchen_sink",
+    "item:adorn:cherry_kitchen_sink",
+    "item:adorn:crimson_kitchen_sink",
+    "item:adorn:cyan_kitchen_sink",
+    "item:adorn:dark_oak_kitchen_sink",
+    "item:adorn:gray_kitchen_sink",
+    "item:adorn:green_kitchen_sink",
+    "item:adorn:jungle_kitchen_sink",
+    "item:adorn:light_blue_kitchen_sink",
+    "item:adorn:light_gray_kitchen_sink",
+    "item:adorn:lime_kitchen_sink",
+    "item:adorn:magenta_kitchen_sink",
+    "item:adorn:mangrove_kitchen_sink",
+    "item:adorn:oak_kitchen_sink",
+    "item:adorn:orange_kitchen_sink",
+    "item:adorn:pink_kitchen_sink",
+    "item:adorn:purple_kitchen_sink",
+    "item:adorn:red_kitchen_sink",
+    "item:adorn:spruce_kitchen_sink",
+    "item:adorn:warped_kitchen_sink",
+    "item:adorn:white_kitchen_sink",
+    "item:adorn:yellow_kitchen_sink"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "adorn:sofa",
+  "contents": [
+    "item:adorn:black_sofa",
+    "item:adorn:blue_sofa",
+    "item:adorn:brown_sofa",
+    "item:adorn:cyan_sofa",
+    "item:adorn:gray_sofa",
+    "item:adorn:green_sofa",
+    "item:adorn:light_blue_sofa",
+    "item:adorn:light_gray_sofa",
+    "item:adorn:lime_sofa",
+    "item:adorn:magenta_sofa",
+    "item:adorn:orange_sofa",
+    "item:adorn:pink_sofa",
+    "item:adorn:purple_sofa",
+    "item:adorn:red_sofa",
+    "item:adorn:white_sofa",
+    "item:adorn:yellow_sofa"
+  ]
+}

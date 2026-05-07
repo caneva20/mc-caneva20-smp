@@ -1,0 +1,32 @@
+{
+  "id": "adorn:bench",
+  "contents": [
+    "item:adorn:acacia_bench",
+    "item:adorn:bamboo_bench",
+    "item:adorn:birch_bench",
+    "item:adorn:black_bench",
+    "item:adorn:blue_bench",
+    "item:adorn:brown_bench",
+    "item:adorn:cherry_bench",
+    "item:adorn:crimson_bench",
+    "item:adorn:cyan_bench",
+    "item:adorn:dark_oak_bench",
+    "item:adorn:gray_bench",
+    "item:adorn:green_bench",
+    "item:adorn:jungle_bench",
+    "item:adorn:light_blue_bench",
+    "item:adorn:light_gray_bench",
+    "item:adorn:lime_bench",
+    "item:adorn:magenta_bench",
+    "item:adorn:mangrove_bench",
+    "item:adorn:oak_bench",
+    "item:adorn:orange_bench",
+    "item:adorn:pink_bench",
+    "item:adorn:purple_bench",
+    "item:adorn:red_bench",
+    "item:adorn:spruce_bench",
+    "item:adorn:warped_bench",
+    "item:adorn:white_bench",
+    "item:adorn:yellow_bench"
+  ]
+}

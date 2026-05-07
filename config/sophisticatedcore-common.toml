@@ -1,0 +1,4 @@
+#Common Settings
+[common]
+	#Disable / enable any items here (disables their recipes)
+	enabledItems = ["sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:crafting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_tier_2|true", "sophisticatedbackpacks:stack_upgrade_tier_3|true", "sophisticatedbackpacks:stack_upgrade_tier_1|true", "sophisticatedbackpacks:upgrade_base|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedbackpacks:gold_backpack|true", "sophisticatedbackpacks:copper_backpack|true", "sophisticatedbackpacks:backpack|true"]

@@ -1,0 +1,32 @@
+{
+  "id": "adorn:table",
+  "contents": [
+    "item:adorn:acacia_table",
+    "item:adorn:bamboo_table",
+    "item:adorn:birch_table",
+    "item:adorn:black_table",
+    "item:adorn:blue_table",
+    "item:adorn:brown_table",
+    "item:adorn:cherry_table",
+    "item:adorn:crimson_table",
+    "item:adorn:cyan_table",
+    "item:adorn:dark_oak_table",
+    "item:adorn:gray_table",
+    "item:adorn:green_table",
+    "item:adorn:jungle_table",
+    "item:adorn:light_blue_table",
+    "item:adorn:light_gray_table",
+    "item:adorn:lime_table",
+    "item:adorn:magenta_table",
+    "item:adorn:mangrove_table",
+    "item:adorn:oak_table",
+    "item:adorn:orange_table",
+    "item:adorn:pink_table",
+    "item:adorn:purple_table",
+    "item:adorn:red_table",
+    "item:adorn:spruce_table",
+    "item:adorn:warped_table",
+    "item:adorn:white_table",
+    "item:adorn:yellow_table"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "adorn:coffee_table",
+  "contents": [
+    "item:adorn:acacia_coffee_table",
+    "item:adorn:bamboo_coffee_table",
+    "item:adorn:birch_coffee_table",
+    "item:adorn:black_coffee_table",
+    "item:adorn:blue_coffee_table",
+    "item:adorn:brown_coffee_table",
+    "item:adorn:cherry_coffee_table",
+    "item:adorn:crimson_coffee_table",
+    "item:adorn:cyan_coffee_table",
+    "item:adorn:dark_oak_coffee_table",
+    "item:adorn:gray_coffee_table",
+    "item:adorn:green_coffee_table",
+    "item:adorn:jungle_coffee_table",
+    "item:adorn:light_blue_coffee_table",
+    "item:adorn:light_gray_coffee_table",
+    "item:adorn:lime_coffee_table",
+    "item:adorn:magenta_coffee_table",
+    "item:adorn:mangrove_coffee_table",
+    "item:adorn:oak_coffee_table",
+    "item:adorn:orange_coffee_table",
+    "item:adorn:pink_coffee_table",
+    "item:adorn:purple_coffee_table",
+    "item:adorn:red_coffee_table",
+    "item:adorn:spruce_coffee_table",
+    "item:adorn:warped_coffee_table",
+    "item:adorn:white_coffee_table",
+    "item:adorn:yellow_coffee_table"
+  ]
+}

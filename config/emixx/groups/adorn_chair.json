@@ -1,0 +1,32 @@
+{
+  "id": "adorn:chair",
+  "contents": [
+    "item:adorn:acacia_chair",
+    "item:adorn:bamboo_chair",
+    "item:adorn:birch_chair",
+    "item:adorn:black_chair",
+    "item:adorn:blue_chair",
+    "item:adorn:brown_chair",
+    "item:adorn:cherry_chair",
+    "item:adorn:crimson_chair",
+    "item:adorn:cyan_chair",
+    "item:adorn:dark_oak_chair",
+    "item:adorn:gray_chair",
+    "item:adorn:green_chair",
+    "item:adorn:jungle_chair",
+    "item:adorn:light_blue_chair",
+    "item:adorn:light_gray_chair",
+    "item:adorn:lime_chair",
+    "item:adorn:magenta_chair",
+    "item:adorn:mangrove_chair",
+    "item:adorn:oak_chair",
+    "item:adorn:orange_chair",
+    "item:adorn:pink_chair",
+    "item:adorn:purple_chair",
+    "item:adorn:red_chair",
+    "item:adorn:spruce_chair",
+    "item:adorn:warped_chair",
+    "item:adorn:white_chair",
+    "item:adorn:yellow_chair"
+  ]
+}
