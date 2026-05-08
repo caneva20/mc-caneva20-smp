@@ -1,6 +1,6 @@
 name = "Chunk Sending[Forge/Fabric]"
 filename = "chunksending-1.21-2.9.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
