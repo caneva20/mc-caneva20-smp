@@ -211,6 +211,10 @@ file = "config/sophisticatedcore-common.toml"
 hash = "b5a8029c8364020cdd03d2c39e848b74bd6e3a8df83cb70638849592e0c94b22"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "0174f153a779b7e081f2dce0560a9771f823e16a990553e88c213ed746545f93"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
