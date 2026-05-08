@@ -48,7 +48,7 @@ hash = "e141527892de9a88ca9a6fd5edfa40ed4ec670af60cfd095388dda439f158e01"
 
 [[files]]
 file = "config/emixx/groups/adorn_coffee_table.json"
-hash = "531941c930c244a62783d99e24ebad741311df1f732c081da02c3af3fd781fe9"
+hash = "785152411f59f809994dce2a3a0a2a9ac2a71153b8c171dbbc5b5c1265607078"
 
 [[files]]
 file = "config/emixx/groups/adorn_cone.json"
@@ -599,16 +599,6 @@ metafile = true
 [[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
 metafile = true
 
 [[files]]
