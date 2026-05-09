@@ -1179,7 +1179,3 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
-
-[[files]]
-file = "update.sh"
-hash = "a176f463ac70a5c4bd0b289e8eb48479aff521f286b5ae5c62989e749595aadc"
