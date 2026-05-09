@@ -140,19 +140,19 @@ hash = "4cf8c805b54df6096d958582910a5420ec83d9752ba42d362a7c6b107f6cde34"
 
 [[files]]
 file = "config/emixx/groups/bellsandwhistles_pilot.json"
-hash = "799e71f5757aa7415cda1b9d4c955506a4df847b5bdb37672252c3e18e5e0fb0"
+hash = "6e6392cc9f9127f8245dfd75e6ca1410c7e2e4d0b86f7281e0e3c479ea73dddb"
 
 [[files]]
 file = "config/emixx/groups/comforts_hammock.json"
-hash = "25608170cd94d3217086d748409c0f4571803162d0bb424f3599619c858cd5be"
+hash = "b995f8f4b00331fcdbf42e473769fb9e6382304bf71f2207fa445bcd810cc77e"
 
 [[files]]
 file = "config/emixx/groups/comforts_sleeping_bag.json"
-hash = "ed75de3ef68221e368eca03ec0f12367b51cf4b7735016e393fde048afb5f527"
+hash = "5423a69e2c7441c7d966d587c0a18438ceb41fcd711f2f26d43c2407e1b0451c"
 
 [[files]]
 file = "config/emixx/groups/simulated_handle.json"
-hash = "c36afebcec90571fad0d009d6e4a480d248a246d2d11302591398819e2926402"
+hash = "d5c9086b3ad3facfa4b0491d8b1e50cf4c3e698bcb6acbbf22584fb70dddd288"
 
 [[files]]
 file = "config/emixx/groups/simulated_nameplate.json"
@@ -164,7 +164,7 @@ hash = "33d92f6ffdac7b5eda3d2b8a5c5fcbe312d6c5987c60da0991c6fe233791cb2f"
 
 [[files]]
 file = "config/emixx/groups/sophisticatedstorage_backpack.json"
-hash = "d0c9ecc95819346dd3f4dd4e384ed3c1bcdbc72faa95f8b71036095539be3619"
+hash = "f5e5009a9a94ae2e0bab90a0157ef39c6a6abce6252940b1dddf4459346d6aeb"
 
 [[files]]
 file = "config/emixx/groups/supplementaries_awning.json"
