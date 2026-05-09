@@ -402,17 +402,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+hash = "2d0c6c9cac13c89a1765d793d8e84b01521a640dc0f2ff47c20084c6805df4bb"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+hash = "0070d823ec3a25f58ac4292db729c2a137ae454415ccad30d767ea4dc17ba6e6"
 metafile = true
 
 [[files]]
@@ -667,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+hash = "f97cfdbd6f78e463719966a4b86fc4e2e109c8fd03e5e78b42890383c2d5eb59"
 metafile = true
 
 [[files]]
