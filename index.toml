@@ -733,11 +733,6 @@ hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
 metafile = true
 
 [[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
-metafile = true
-
-[[files]]
 file = "mods/neruina.pw.toml"
 hash = "6bb0a046f078cb540a125dce89bdf000eef6a72800e5fa5ca4e240a32bb23e15"
 metafile = true
