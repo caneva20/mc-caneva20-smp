@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "2267df77006981ef26af0c5cc4795f80a8c63d1032b8fe2456c735dd9b0a7338"
-metafile = true
-
-[[files]]
 file = "config/accessories.json5"
 hash = "5ff307b915b1b7f7f85aeb3cb9bb53269ba67a78a3b0c391a8c6fc82ee95b98e"
 
@@ -1178,4 +1168,14 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
 metafile = true
