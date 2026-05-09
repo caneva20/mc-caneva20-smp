@@ -571,11 +571,6 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "34f59271fa56d359df800d96973f534b88764785fd1cc80b0e1fc0e811a7d1ac"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
