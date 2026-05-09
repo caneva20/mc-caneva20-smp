@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "e996b26b57d18eb28b24d2a208be095622be21cc0a6a7d1380a07240151ec369"
+hash = "3c082d412227fe3e35e7857737a8b0371d3cdaa963ec480733a772b63b05bdde"
 metafile = true
 
 [[files]]
