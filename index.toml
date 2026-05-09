@@ -396,6 +396,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "11975785d3b13927c69fd7fbd8d950608a3fbeb9eb976575e4973da6630ead65"
 metafile = true
