@@ -4,7 +4,7 @@
 ## Como adicionar a modpack
 
 1. Baixe o [Prism Launcher](https://prismlauncher.org/download/)
-   1. Se você não tiver uma conta original, baixe-o por aqui: [Prism Launcher - Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MinGW-arm64-11.0.2-1.zip)
+   1. Se você não tiver uma conta original, baixe-o por aqui: [Prism Launcher - Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked/releases/download/11.0.2-1/PrismLauncher-Windows-MinGW-arm64-Setup-11.0.2-1.exe)
 2. Configure a Prism Laucher (somente primeiro uso) ![initial-setup](/assets/initial-setup.gif)
 3. Configure seu nome (somente primeiro uso) ![add-nickname](assets/add-nickname.gif)
 4. Crie uma nova instancia ![add instance](/assets/add-modpack.gif)
