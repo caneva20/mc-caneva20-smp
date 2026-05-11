@@ -283,11 +283,6 @@ hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "2d0c6c9cac13c89a1765d793d8e84b01521a640dc0f2ff47c20084c6805df4bb"
-metafile = true
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "0070d823ec3a25f58ac4292db729c2a137ae454415ccad30d767ea4dc17ba6e6"
 metafile = true
@@ -589,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "fe534103fe33ec364646a17fd9a597fa7a6003d4a4426a4305477770ce32192f"
+hash = "4cf28cd319d4567dfc3354a0b4d97b8f5e434de2ef81d711d7ac2d4e901d26ad"
 metafile = true
 
 [[files]]
