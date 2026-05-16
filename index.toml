@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
+hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "2a3bf55776c6b79a479860e0447ef851a881f0289e194dbdd55cfc5df6e00f05"
+hash = "dffd5e0950b3bd121da4d6be559b13e4917d9ef901ca92e26ad125dc8ec85c26"
 metafile = true
 
 [[files]]
