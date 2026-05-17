@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "dffd5e0950b3bd121da4d6be559b13e4917d9ef901ca92e26ad125dc8ec85c26"
+hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "9ef81e3a2eedc119c659940b940e5ab1a1ed6e37fbbc83c3edf53a8ea859aaeb"
+hash = "4847eeefe512eb6235e0d4da09b5c2669d0d48293e78d39c323d1ebbccdc25b7"
 metafile = true
 
 [[files]]
