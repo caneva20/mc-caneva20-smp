@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "e1e6818397bee1cd75f05e22c9ed6ba8af4bd2a21f20f4b4b6fc773512aef24d"
+hash = "e36cbf13f4a4b614ba88bcf657bd53f865663fd913c854b0bc4414265b9a5828"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
