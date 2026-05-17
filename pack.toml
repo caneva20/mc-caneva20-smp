@@ -1,6 +1,6 @@
 name = "caneva20 SMP S2"
 author = "caneva20"
-version = "2.1.0"
+version = "2.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "8e0afbdc95550618e5ac7167d0357d80dff66c6f4334aacf5c8f614eb6f5f80e"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.230"
+neoforge = "21.1.228"
