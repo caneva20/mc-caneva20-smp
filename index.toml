@@ -233,11 +233,6 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "348bb5392069d6de42797964825add34034c8136f7ea1a9d0bbaf9ccef591b05"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
@@ -648,11 +643,6 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
-file = "mods/leaky.pw.toml"
-hash = "425a269ea595ef628360ca07be3756ba62fd32e1b9f01cde5e45dbec7c3e14d9"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "32551cd3db88210863565b772ee47679cbf1eeff163fb93b9ef84a79fa069496"
 metafile = true
@@ -960,11 +950,6 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
 metafile = true
 
 [[files]]
