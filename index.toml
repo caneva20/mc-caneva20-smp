@@ -121,6 +121,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
 
 [[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "38a915cc5962784e58748ff34caa731effae72d915cd620ccf1d387fd90f414b"
+
+[[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "19c11c4004d8686b4b26e35026a5f8dd2bcb1f9164b2827d31625e2b02585aa7"
 
@@ -635,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
