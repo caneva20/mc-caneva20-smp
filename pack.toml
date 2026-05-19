@@ -1,7 +1,7 @@
 name = "caneva20 SMP S2"
 author = "caneva20"
 version = "2.1.1"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz:1.2.0"
 
 [index]
 file = "index.toml"
