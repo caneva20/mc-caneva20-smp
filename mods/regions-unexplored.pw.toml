@@ -1,6 +1,6 @@
 name = "Regions Unexplored"
 filename = "regions-unexplored-0.6-neoforge-21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Tkikq67H/versions/hfTCN9un/regions-unexplored-0.6-neoforge-21.1.jar"

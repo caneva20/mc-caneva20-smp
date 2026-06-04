@@ -823,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
-hash = "69cf64b8170a3a783f47e6192ede5a42a73cac639793a8ef4f07fb2ef2bbec69"
+hash = "25f938240a23b7b94990288834d12cefd68a6eb68da86f1e044912a12b41a884"
 metafile = true
 
 [[files]]
