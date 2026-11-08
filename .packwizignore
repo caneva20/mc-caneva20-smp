@@ -1,6 +1,7 @@
 *.zip
 update.ps1
 update.sh
+update-review.html
 packwiz
 /assets/*
 README.md
