@@ -1,6 +1,7 @@
 *.zip
 update.ps1
 update.sh
+release.sh
 packwiz
 /assets/*
 /updater

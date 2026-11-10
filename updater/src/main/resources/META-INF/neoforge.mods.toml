@@ -4,7 +4,7 @@ license = "MIT"
 
 [[mods]]
 modId = "c20_loaderpatch"
-version = "1.0.0"
+version = "1.0.1"
 displayName = "C20 SMP Loader updater"
 description = "Applies packwiz modloader bumps automatically on Prism instances. Silent; no UI, no configuration."
 authors = "caneva20"

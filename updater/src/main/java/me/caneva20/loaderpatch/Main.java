@@ -119,8 +119,7 @@ public final class Main {
                 + (current != null ? " (was " + current + ")" : ""));
 
         if (cfg.popup) {
-            boolean wantsRelaunch = Notifier.showRelaunchDialog(name, current, target, log);
-            if (wantsRelaunch && cfg.allowRelaunch) {
+            if (Notifier.notify(name, current, target, cfg.allowRelaunch, log)) {
                 Relauncher.tryRelaunch(name, log);
             }
         }
