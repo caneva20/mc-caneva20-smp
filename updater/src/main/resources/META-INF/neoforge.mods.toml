@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "c20_loaderpatch"
+version = "1.0.0"
+displayName = "C20 SMP Loader updater"
+description = "Applies packwiz modloader bumps automatically on Prism instances. Silent; no UI, no configuration."
+authors = "caneva20"
+
+[[dependencies.c20_loaderpatch]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.c20_loaderpatch]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "CLIENT"

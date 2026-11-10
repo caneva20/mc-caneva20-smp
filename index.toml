@@ -212,6 +212,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/c20_loaderpatch.pw.toml"
+hash = "f99a55c97993b14ca7ea4c1b002804a8ec2f3639e2838ff20d8e688e414e09d5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true

@@ -4,4 +4,6 @@ update.sh
 update-review.html
 packwiz
 /assets/*
+/updater
+/c20_loaderpatch-*.jar
 README.md
