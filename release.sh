@@ -59,9 +59,9 @@ done
 # "caneva20%20smp%20s2.zip"-style names map back to real filenames)
 mapfile -t SELF < <(
   for f in "${INDEX_FILES[@]}"; do
-    [ "${f##*.}" != pw.toml ] && continue
+    case "$f" in *.pw.toml) ;; *) continue ;; esac
     grep -hoE 'url[[:space:]]*=[[:space:]]*"[^"]*files\.caneva20\.me/modpacks/mc/smp-s2/[^"]*"' "$f" | \
-    grep -oE 'modpacks/mc/smp-s2/[^"]*'
+    grep -oE 'modpacks/mc/smp-s2/[^"]*' || true
   done |
   sed -e 's|^modpacks/mc/smp-s2/||' -e 's/%20/ /g' |
   sort -u
