@@ -1,7 +1,6 @@
 name = "Sodium Dynamic Lights"
 filename = "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
 side = "client"
-pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/PxQSWIcD/versions/XI0WLXdn/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
