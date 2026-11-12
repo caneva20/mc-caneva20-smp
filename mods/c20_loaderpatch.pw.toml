@@ -1,0 +1,8 @@
+name = "c20_loaderpatch"
+filename = "c20_loaderpatch.jar"
+side = "client"
+
+[download]
+url = "https://files.caneva20.me/modpacks/mc/smp-s2/c20_loaderpatch-1.0.1.jar"
+hash-format = "sha256"
+hash = "5a3874980559cbcbdf218542725d64a5e296124a3c176cdf9bf09075a73e85ab"

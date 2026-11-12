@@ -1,0 +1,33 @@
+{
+  "id": "supplementaries:way_sign",
+  "contents": [
+    "item:supplementaries:way_sign_wall",
+    "item:supplementaries:way_sign_spruce",
+    "item:supplementaries:way_sign_birch",
+    "item:supplementaries:way_sign_jungle",
+    "item:supplementaries:way_sign_acacia",
+    "item:supplementaries:way_sign_dark_oak",
+    "item:supplementaries:way_sign_mangrove",
+    "item:supplementaries:way_sign_cherry",
+    "item:supplementaries:way_sign_bamboo",
+    "item:supplementaries:way_sign_crimson",
+    "item:supplementaries:way_sign_warped",
+    "item:supplementaries:regions_unexplored/way_sign_alpha",
+    "item:supplementaries:alpinewhispers/way_sign_arolla_pine",
+    "item:supplementaries:bloomingnature/way_sign_aspen",
+    "item:supplementaries:bloomingnature/way_sign_baobab",
+    "item:supplementaries:bloomingnature/way_sign_chestnut",
+    "item:supplementaries:cataclysm/way_sign_chorus",
+    "item:supplementaries:bloomingnature/way_sign_cypress",
+    "item:supplementaries:vinery/way_sign_dark_cherry",
+    "item:supplementaries:iceandfire/way_sign_dreadwood",
+    "item:supplementaries:bloomingnature/way_sign_ebony",
+    "item:supplementaries:bloomingnature/way_sign_fan_palm",
+    "item:supplementaries:bloomingnature/way_sign_fir",
+    "item:supplementaries:bloomingnature/way_sign_larch",
+    "item:supplementaries:beachparty/way_sign_palm",
+    "item:supplementaries:meadow/way_sign_pine",
+    "item:supplementaries:bloomingnature/way_sign_swamp_cypress",
+    "item:supplementaries:bloomingnature/way_sign_swamp_oak"
+  ]
+}
