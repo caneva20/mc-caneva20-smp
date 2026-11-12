@@ -1,13 +1,13 @@
 name = "Trade Cycling"
-filename = "trade-cycling-neoforge-1.21.1-1.0.18.jar"
+filename = "trade-cycling-neoforge-1.21.1-1.0.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/Dy7xxXr3/trade-cycling-neoforge-1.21.1-1.0.18.jar"
+url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/9dxmi65z/trade-cycling-neoforge-1.21.1-1.0.23.jar"
 hash-format = "sha512"
-hash = "cd839b97ddcf48ac899c4ecef363f02668abbf18cf2d77823d346f3dacce09f24532636f8de712d8d5ed959cc0b26db23cb98f8837d141731e79c647bd953682"
+hash = "0a9b440da43f6946299fe69627969e5403a79a3d7b5ce8da3effde905d3acb179da4c2d86d32f2eeda33df2574cc908323c4f884e1e762956bbfd66d153a48bc"
 
 [update]
 [update.modrinth]
 mod-id = "qpPoAL6m"
-version = "Dy7xxXr3"
+version = "9dxmi65z"

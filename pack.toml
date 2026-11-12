@@ -1,12 +1,12 @@
 name = "caneva20 SMP S2"
 author = "caneva20"
-version = "2.2.4"
+version = "2.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "934c0d5d8eb35f6ae3bb810d72e6646565fdee7b145d9015d02c76e438db7d24"
+hash = "051edf8349c7bcbec9eaa4c3591cd8948b0070232bb9e62be2503831b1548372"
 
 [versions]
 minecraft = "1.21.1"
