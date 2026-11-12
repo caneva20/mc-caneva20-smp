@@ -172,6 +172,11 @@ hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
 
 [[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "30dfc5090a46192c9591bbb8cb7965d89300236e51985370f5ae93b46e07e404"
+metafile = true
+
+[[files]]
 file = "mods/backport-copper-age.pw.toml"
 hash = "af9a5e8ab68afb107f5fd808b25171ce09096c98b6f5865d8b688ca3148cd516"
 metafile = true
@@ -473,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6f11f0588ca7ce42111d2fbea49c1a98943e1e1d83b58a53cac3379e438fdf93"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
@@ -913,17 +918,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "62763719713397981d04896274e48579e8d425d23bf2f1999184072aea53e193"
+hash = "284918c1dd6ccaa692582ea71bf65fad720e7b1b23633973d5c3ccef2620ef9f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
+hash = "a39ddd081ad27deafb638e8b6fd5f762ecbe19218563b7c7de994eab51522499"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4263d5bcf02a39213e93949287119aeb17e59d3432bb4b4597d963fd4f8dcc12"
+hash = "85292d0ce95b6e29248b18d77ed42175357fdf09f8794d29aec8ac1d6a323eba"
 metafile = true
 
 [[files]]
@@ -939,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "16867de3e52d4f2115c1cad51cdf9d717032d1c750672ced8f2dc85a1a61e271"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "1e89e57e0a0a8110cc82e47fc498612345063ea45996d9ed5de5616ea39037fb"
 metafile = true
 
 [[files]]
